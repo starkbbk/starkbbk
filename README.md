@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmZ5ZXNiY2IwZmNmMXMwamUxZ2lsbWg5c3lrdHg3eGh6bjgwbHdzOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/B9xgQ9lxJ0cP6/giphy.gif" width="180" alt="Animated Avatar"/>
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmZ5ZXNiY2IwZmNmMXMwamUxZ2lsbWg5c3lrdHg3eGh6bjgwbHdzOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/B9xgQ9lxJ0cP6/giphy.gif" width="500"  alt="Animated Avatar"/>
 </p>
 
 <p align="center">
@@ -20,9 +20,9 @@
 
 ```js
 const StarkBBK = {
-  name: 'Shivanand Verma,
+  name: 'Shivanand Verma',
   code: ['C++', 'Python', 'JavaScript', 'Swift', 'Java', 'PHP'],
-  askMeAbout: ['iOS Jailbreak Tweaks', 'Web Dev', 'React', 'Flutter', 'Node.js'],
+  askMeAbout: ['iOS Jailbreak Tweaks', 'React', 'Node.js'],
   currentFocus: 'Next.js, DevOps, Framer Motion',
   funFact: 'Debugging is twice as hard as writing the code in the first place.',
 };
@@ -63,6 +63,7 @@ const StarkBBK = {
 </p>
 
 ---
+
 
 ## 🔥 WakaTime Activity
 <p align="center">
