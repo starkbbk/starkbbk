@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://i.ibb.co/XbktVdk/avatar-dev.png" width="180" alt="Animated Avatar"/>
+  <img src="[https://i.ibb.co/XbktVdk/avatar-dev.png](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmZ5ZXNiY2IwZmNmMXMwamUxZ2lsbWg5c3lrdHg3eGh6bjgwbHdzOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/B9xgQ9lxJ0cP6/giphy.gif)" width="180" alt="Animated Avatar"/>
 </p>
 
 <p align="center">
