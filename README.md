@@ -20,7 +20,7 @@
 
 ```js
 const StarkBBK = {
-  name: 'Shivam',
+  name: 'Shivanand Verma,
   code: ['C++', 'Python', 'JavaScript', 'Swift', 'Java', 'PHP'],
   askMeAbout: ['iOS Jailbreak Tweaks', 'Web Dev', 'React', 'Flutter', 'Node.js'],
   currentFocus: 'Next.js, DevOps, Framer Motion',
