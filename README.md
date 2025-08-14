@@ -1,9 +1,10 @@
-<p align="center">
-  <img src="snowfall_background.svg" alt="Winter Snowfall Background" />
-</p>
+
 <!-- Profile Header -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Hi+There+%F0%9F%91%8B%2C+I'm+StarkBBK;Full-stack+Web+%2F+App+Developer;IOS+Tweaks+Jailbreak+Dev;Always+Learning+and+Building"/>
+</p>
+<p align="center">
+  <img src="snowfall_background.svg" alt="Winter Snowfall Background" />
 </p>
 
 <p align="center">
