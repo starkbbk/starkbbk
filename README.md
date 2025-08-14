@@ -15,8 +15,6 @@
 
 ---
 
-## 🚀 About Me
-
 ```js
 const StarkBBK = {
   name: "Shivanand Verma",
@@ -33,6 +31,7 @@ const StarkBBK = {
   <a href="https://x.com/T0NYSTARK"><img src="https://img.shields.io/badge/Twitter-%23000000?style=for-the-badge&logo=x&logoColor=white"/></a>
   <a href="https://buymeacoffee.com/starkbbk"><img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"/></a>
 </p>
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=cpp,python,js,ts,swift,go,html,css,bootstrap,react,redux,nextjs,nodejs,express,django,mysql,mongodb,postgres,tailwind,threejs,jquery,graphql,aws,docker,kubernetes,figma,github"/>
 </p>
