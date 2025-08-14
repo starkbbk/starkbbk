@@ -1,0 +1,41 @@
+
+<svg width="100%" height="300" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bgGradient" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#cceeff"/>
+      <stop offset="100%" stop-color="#99ccff"/>
+    </linearGradient>
+    <circle id="snowflake" cx="0" cy="0" r="2" fill="white" opacity="0.8"/>
+  </defs>
+
+  <!-- Background -->
+  <rect width="100%" height="300" fill="url(#bgGradient)" />
+
+  <!-- Snowflakes -->
+  <g>
+    <use xlink:href="#snowflake" x="20" y="0">
+      <animate attributeName="y" from="-10" to="310" dur="5s" repeatCount="indefinite" />
+      <animate attributeName="x" values="20;25;15;20" dur="5s" repeatCount="indefinite" />
+    </use>
+    <use xlink:href="#snowflake" x="100" y="50">
+      <animate attributeName="y" from="-10" to="310" dur="7s" repeatCount="indefinite" />
+      <animate attributeName="x" values="100;105;95;100" dur="7s" repeatCount="indefinite" />
+    </use>
+    <use xlink:href="#snowflake" x="200" y="100">
+      <animate attributeName="y" from="-10" to="310" dur="6s" repeatCount="indefinite" />
+      <animate attributeName="x" values="200;205;195;200" dur="6s" repeatCount="indefinite" />
+    </use>
+    <use xlink:href="#snowflake" x="300" y="150">
+      <animate attributeName="y" from="-10" to="310" dur="8s" repeatCount="indefinite" />
+      <animate attributeName="x" values="300;305;295;300" dur="8s" repeatCount="indefinite" />
+    </use>
+    <use xlink:href="#snowflake" x="400" y="200">
+      <animate attributeName="y" from="-10" to="310" dur="9s" repeatCount="indefinite" />
+      <animate attributeName="x" values="400;405;395;400" dur="9s" repeatCount="indefinite" />
+    </use>
+    <use xlink:href="#snowflake" x="500" y="250">
+      <animate attributeName="y" from="-10" to="310" dur="5s" repeatCount="indefinite" />
+      <animate attributeName="x" values="500;505;495;500" dur="5s" repeatCount="indefinite" />
+    </use>
+  </g>
+</svg>
