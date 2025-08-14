@@ -68,16 +68,13 @@ const StarkBBK = {
 
 
 ---
-## Contribution Graph
+## 🔥 WakaTime Activity
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=starkbbk&theme=tokyo-night&area=true&area_color=00F7FF&bg_color=0D1117&line=00F7FF&point=FFFFFF" alt="Contribution Graph"/>
 </p>
 
 
-## 🔥 WakaTime Activity
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=starkbbk&theme=dracula"/>
-</p>
+
 
 
 ---
