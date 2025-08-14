@@ -25,9 +25,7 @@ const StarkBBK = {
   currentFocus: "Next.js, DevOps, Framer Motion",
   funFact: "Debugging is twice as hard as writing the code in the first place."
 };
----
-## 🌐 Connect with Me
----
+
 <p align="center">
   <a href="https://instagram.com/starkbbk"><img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
   <a href="https://linkedin.com/in/starkbbk"><img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
@@ -35,61 +33,26 @@ const StarkBBK = {
   <a href="https://x.com/T0NYSTARK"><img src="https://img.shields.io/badge/Twitter-%23000000?style=for-the-badge&logo=x&logoColor=white"/></a>
   <a href="https://buymeacoffee.com/starkbbk"><img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"/></a>
 </p>
-
----
-
-## 🧠 Skill Set
 <p align="center">
   <img src="https://skillicons.dev/icons?i=cpp,python,js,ts,swift,go,html,css,bootstrap,react,redux,nextjs,nodejs,express,django,mysql,mongodb,postgres,tailwind,threejs,jquery,graphql,aws,docker,kubernetes,figma,github"/>
 </p>
-
-
----
-
-## 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=starkbbk&theme=radical&show_icons=true&hide_border=true" height="150"/>
   <img src="https://github-readme-streak-stats.herokuapp.com?user=starkbbk&theme=radical&hide_border=true" height="150"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=starkbbk&layout=compact&theme=radical&hide_border=true" height="150"/>
 </p>
-
-
----
-
-## 🏆 GitHub Achievements
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=starkbbk&theme=onestar&no-frame=true&row=2&column=4"/>
 </p>
-
-
----
-
-
-## 🔥 WakaTime Activity
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=starkbbk&theme=dracula"/>
 </p>
-
-
----
-
-## ✍️ Quote
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
 </p>
-
----
-
-## 💰 Support Me
 <p align="center">
-  <a href="https://buymeacoffee.com/starkbbk"><img src="https://img.shields.io/badge/Buy%20me%20a%20coffee-ffdd00?style=flat&logo=buy-me-a-coffee&logoColor=black"/></a>
-  <a href="https://paypal.me/shivanandvermabbk"><img src="https://img.shields.io/badge/PayPal-00457C?style=flat&logo=paypal&logoColor=white"/></a>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
 </p>
-
-
----
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
 </p>
-```
-
