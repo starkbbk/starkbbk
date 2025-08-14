@@ -41,14 +41,14 @@ const StarkBBK = {
 
 ---
 
-## 🧠 Skill Set (Glassmorphism Theme)
+## 🧠 Skill Set 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=cpp,python,js,ts,swift,go,html,css,bootstrap,react,redux,nextjs,nodejs,express,django,mysql,mongodb,postgres,tailwind,threejs,jquery,graphql,aws,docker,kubernetes,figma,github&theme=light" style="backdrop-filter: blur(15px); background: rgba(255,255,255,0.1); border-radius: 15px; padding: 10px;"/>
 </p>
 
 ---
 
-## 📊 GitHub Stats (Glassmorphism)
+## 📊 GitHub Stats 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=starkbbk&theme=transparent&show_icons=true&hide_border=true" height="150"/>
   <img src="https://github-readme-streak-stats.herokuapp.com?user=starkbbk&theme=transparent&hide_border=true" height="150"/>
@@ -71,7 +71,7 @@ const StarkBBK = {
 
 ---
 
-## ✍️ Quote (Glassmorphism Style)
+## ✍️ Quote
 <p align="center" style="backdrop-filter: blur(10px); background: rgba(255,255,255,0.05); border-radius: 10px; padding: 15px;">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=transparent"/>
 </p>
