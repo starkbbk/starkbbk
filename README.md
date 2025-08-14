@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmZ5ZXNiY2IwZmNmMXMwamUxZ2lsbWg5c3lrdHg3eGh6bjgwbHdzOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/B9xgQ9lxJ0cP6/giphy.gif" width="500" alt="Animated Avatar" style="border-radius:20px;backdrop-filter:blur(12px);background:rgba(255,255,255,0.15);padding:10px;border:1px solid rgba(255,255,255,0.3);"/>
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmZ5ZXNiY2IwZmNmMXMwamUxZ2lsbWg5c3lrdHg3eGh6bjgwbHdzOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/B9xgQ9lxJ0cP6/giphy.gif" width="500" alt="Animated Avatar"/>
 </p>
 
 <p align="center">
@@ -16,6 +16,7 @@
 ---
 
 ## 🚀 About Me
+
 ```js
 const StarkBBK = {
   name: "Shivanand Verma",
@@ -29,7 +30,7 @@ const StarkBBK = {
 ---
 
 ## 🌐 Connect with Me
-<p align="center" style="backdrop-filter:blur(12px);background:rgba(255,255,255,0.08);border-radius:15px;padding:15px;border:1px solid rgba(255,255,255,0.3);">
+<p align="center">
   <a href="https://instagram.com/starkbbk"><img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
   <a href="https://linkedin.com/in/starkbbk"><img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://www.youtube.com/@StarkBBK"><img src="https://img.shields.io/badge/YouTube-%23FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
@@ -39,51 +40,50 @@ const StarkBBK = {
 
 ---
 
-## 🧠 Skill Set
-<p align="center" style="backdrop-filter:blur(10px);background:rgba(255,255,255,0.05);border-radius:15px;padding:15px;border:1px solid rgba(255,255,255,0.3);">
-  <img src="https://skillicons.dev/icons?i=cpp,python,js,ts,swift,go,html,css,bootstrap,react,redux,nextjs,nodejs,express,django,mysql,mongodb,postgres,tailwind,threejs,jquery,graphql,aws,docker,kubernetes,figma,github"/>
+## 🧠 Skill Set (Glassmorphism Theme)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,python,js,ts,swift,go,html,css,bootstrap,react,redux,nextjs,nodejs,express,django,mysql,mongodb,postgres,tailwind,threejs,jquery,graphql,aws,docker,kubernetes,figma,github&theme=light" style="backdrop-filter: blur(15px); background: rgba(255,255,255,0.1); border-radius: 15px; padding: 10px;"/>
 </p>
 
 ---
 
-## 📊 GitHub Stats
-<p align="center" style="backdrop-filter:blur(10px);background:rgba(255,255,255,0.05);border-radius:15px;padding:15px;border:1px solid rgba(255,255,255,0.3);">
-  <img src="https://github-readme-stats.vercel.app/api?username=starkbbk&theme=transparent&show_icons=true&hide_border=true&title_color=00F7FF&text_color=FFFFFF&icon_color=00F7FF" height="150"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=starkbbk&theme=transparent&hide_border=true&ring=00F7FF&fire=FFDD00&currStreakLabel=00F7FF" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=starkbbk&layout=compact&theme=transparent&hide_border=true&title_color=00F7FF&text_color=FFFFFF" height="150"/>
+## 📊 GitHub Stats (Glassmorphism)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=starkbbk&theme=transparent&show_icons=true&hide_border=true" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=starkbbk&theme=transparent&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=starkbbk&layout=compact&theme=transparent&hide_border=true" height="150"/>
 </p>
 
 ---
 
 ## 🏆 GitHub Achievements
-<p align="center" style="backdrop-filter:blur(10px);background:rgba(255,255,255,0.05);border-radius:15px;padding:15px;border:1px solid rgba(255,255,255,0.3);">
-  <img src="https://github-profile-trophy.vercel.app/?username=starkbbk&theme=algolia&no-frame=true&row=2&column=4"/>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=starkbbk&theme=onestar&no-frame=true&row=2&column=4"/>
 </p>
 
 ---
 
 ## 🔥 WakaTime Activity
-<p align="center" style="backdrop-filter:blur(10px);background:rgba(255,255,255,0.05);border-radius:15px;padding:15px;border:1px solid rgba(255,255,255,0.3);">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=starkbbk&theme=react-dark&bg_color=transparent&color=00F7FF&line=FFDD00&point=FFFFFF"/>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=starkbbk&theme=react-dark&bg_color=00000000&hide_border=true"/>
 </p>
 
 ---
 
-## ✍️ Quote
-<p align="center" style="backdrop-filter:blur(10px);background:rgba(255,255,255,0.05);border-radius:15px;padding:15px;border:1px solid rgba(255,255,255,0.3);">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
+## ✍️ Quote (Glassmorphism Style)
+<p align="center" style="backdrop-filter: blur(10px); background: rgba(255,255,255,0.05); border-radius: 10px; padding: 15px;">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=transparent"/>
 </p>
 
 ---
 
 ## 💰 Support Me
-<p align="center" style="backdrop-filter:blur(10px);background:rgba(255,255,255,0.05);border-radius:15px;padding:15px;border:1px solid rgba(255,255,255,0.3);">
+<p align="center">
   <a href="https://buymeacoffee.com/starkbbk"><img src="https://img.shields.io/badge/Buy%20me%20a%20coffee-ffdd00?style=flat&logo=buy-me-a-coffee&logoColor=black"/></a>
   <a href="https://paypal.me/shivanandvermabbk"><img src="https://img.shields.io/badge/PayPal-00457C?style=flat&logo=paypal&logoColor=white"/></a>
 </p>
 
 ---
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
