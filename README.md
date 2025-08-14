@@ -67,8 +67,9 @@ const StarkBBK = {
 
 ## 🔥 WakaTime Activity
 <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=starkbbk&theme=dracula"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=starkbbk&theme=dracula"/>
 </p>
+
 
 ---
 
