@@ -48,7 +48,6 @@ const StarkBBK = {
 ## 🏆 Achievements & Highlights
 <p align="center">
 🥇 Achievement	📌 Details
-🏆 AIST International Contest — Rank 1	1st Place (2024 & 2025) · $6,000 Total Prize Money
 🎓 Amazon ML Summer School 2025	Selected Nationally · Trained by Amazon Scientists in ML, NLP, CV & RL
 ⭐ HackerRank	5-Star Problem Solving · 5-Star C++ · 4-Star C
 🔥 LeetCode	600+ Problems Solved (Arrays, Trees, Graphs, DP)
