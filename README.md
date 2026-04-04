@@ -45,6 +45,19 @@ const StarkBBK = {
 
 ---
 
+## 🏆 Achievements & Highlights
+<p align="center">
+🥇 Achievement	📌 Details
+🏆 AIST International Contest — Rank 1	1st Place (2024 & 2025) · $6,000 Total Prize Money
+🎓 Amazon ML Summer School 2025	Selected Nationally · Trained by Amazon Scientists in ML, NLP, CV & RL
+⭐ HackerRank	5-Star Problem Solving · 5-Star C++ · 4-Star C
+🔥 LeetCode	600+ Problems Solved (Arrays, Trees, Graphs, DP)
+🤖 Salesforce Trailhead	Adventurer · Agentblazer Champion Badge Holder
+📜 Coursera (Stanford / DeepLearning.AI)	Unsupervised Learning · Recommenders · Reinforcement Learning
+📜 Infosys Certified	DBMS Certification
+</p>
+
+---
 ## 🧠 Skill Set 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=cpp,python,js,ts,swift,go,html,css,bootstrap,react,redux,nextjs,nodejs,express,django,mysql,mongodb,postgres,tailwind,threejs,jquery,graphql,aws,docker,kubernetes,figma,github&theme=light" style="backdrop-filter: blur(15px); background: rgba(255,255,255,0.1); border-radius: 15px; padding: 10px;"/>
@@ -53,18 +66,17 @@ const StarkBBK = {
 ---
 
 ## 📊 GitHub Stats 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=starkbbk&theme=transparent&show_icons=true&hide_border=true" height="150"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=starkbbk&theme=transparent&hide_border=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=starkbbk&layout=compact&theme=transparent&hide_border=true" height="150"/>
-</p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=starkbbk&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" height="160"/> &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com?user=starkbbk&theme=tokyonight&hide_border=true" height="160"/> </p><p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=starkbbk&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" height="160"/> </p>
+
 
 ---
 
+## Contribution Graph
+<p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=starkbbk&theme=tokyo-night&bg_color=00000000&hide_border=true&area=true"/> </p>
+
+---
 ## 🏆 GitHub Achievements
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=starkbbk&theme=onestar&no-frame=true&row=2&column=4"/>
-</p>
+<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=starkbbk&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=10"/> </p>
 
 ---
 
