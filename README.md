@@ -40,6 +40,29 @@ const StarkBBK = {
 
 ---
 
+## 💻 Languages
+<p align="center"> <img src="https://skillicons.dev/icons?i=cpp,python,js,ts,java,php,swift&theme=dark"/> </p>
+
+---
+
+## 🎨 Frontend & Mobile
+<p align="center"> <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,bootstrap,redux,threejs,jquery,figma&theme=dark"/> </p>
+
+---
+## ⚙️ Backend & Databases
+<p align="center"> <img src="https://skillicons.dev/icons?i=nodejs,express,django,mysql,mongodb,postgres,graphql&theme=dark"/> </p>
+
+---
+## ☁️ DevOps & Cloud & Tools
+<p align="center"> <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,git,github,vscode,vercel,linux&theme=dark"/> </p>
+---
+
+## 🤖 AI / ML
+---
+<p align="center"> <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn&theme=dark"/> </p>
+---
+
+
 ## 🌐 Connect with Me
 <p align="center"> <a href="https://linkedin.com/in/starkbbk"> <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="https://github.com/starkbbk"> <img src="https://img.shields.io/badge/GitHub-%23181717?style=for-the-badge&logo=github&logoColor=white"/> </a> <a href="https://leetcode.com/u/starkbbk"> <img src="https://img.shields.io/badge/LeetCode-%23FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/> </a> <a href="https://instagram.com/starkbbk"> <img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> </a> <a href="https://www.youtube.com/@StarkBBK"> <img src="https://img.shields.io/badge/YouTube-%23FF0000?style=for-the-badge&logo=youtube&logoColor=white"/> </a> <a href="https://x.com/T0NYSTARK"> <img src="https://img.shields.io/badge/Twitter%20%2F%20X-%23000000?style=for-the-badge&logo=x&logoColor=white"/> </a> <a href="mailto:shivanandbbk06@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a> <a href="https://buymeacoffee.com/starkbbk"> <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"/> </a> </p>
 
