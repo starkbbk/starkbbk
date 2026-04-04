@@ -69,15 +69,41 @@ const StarkBBK = {
 ---
 
 ## 🏆 Achievements & Highlights
-<p align="center">
-🥇 Achievement	📌 Details
-🎓 Amazon ML Summer School 2025	Selected Nationally · Trained by Amazon Scientists in ML, NLP, CV & RL
-⭐ HackerRank	5-Star Problem Solving · 5-Star C++ · 4-Star C
-🔥 LeetCode	600+ Problems Solved (Arrays, Trees, Graphs, DP)
-🤖 Salesforce Trailhead	Adventurer · Agentblazer Champion Badge Holder
-📜 Coursera (Stanford / DeepLearning.AI)	Unsupervised Learning · Recommenders · Reinforcement Learning
-📜 Infosys Certified	DBMS Certification
-</p>
+
+<table align="center">
+  <thead>
+    <tr>
+      <th>🥇 Achievement</th>
+      <th>📌 Details</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>🎓 <b>Amazon ML Summer School 2025</b></td>
+      <td>Selected Nationally · Trained by Amazon Scientists in ML, NLP, CV & RL</td>
+    </tr>
+    <tr>
+      <td>⭐ <b>HackerRank</b></td>
+      <td>5-Star Problem Solving · 5-Star C++ · 4-Star C</td>
+    </tr>
+    <tr>
+      <td>🔥 <b>LeetCode</b></td>
+      <td>600+ Problems Solved (Arrays, Trees, Graphs, DP)</td>
+    </tr>
+    <tr>
+      <td>🤖 <b>Salesforce Trailhead</b></td>
+      <td>Adventurer · Agentblazer Champion Badge Holder</td>
+    </tr>
+    <tr>
+      <td>📜 <b>Coursera (Stanford / DeepLearning.AI)</b></td>
+      <td>Unsupervised Learning · Recommenders · Reinforcement Learning</td>
+    </tr>
+    <tr>
+      <td>📜 <b>Infosys Certified</b></td>
+      <td>DBMS Certification</td>
+    </tr>
+  </tbody>
+</table>
 
 ---
 ## 🧠 Skill Set 
