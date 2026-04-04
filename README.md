@@ -1,16 +1,23 @@
-
-<!-- Profile Header -->
+<!-- Capsule Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Hi+There+%F0%9F%91%8B%2C+I'm+StarkBBK;Full-stack+Web+%2F+App+Developer;IOS+Tweaks+Jailbreak+Dev;Always+Learning+and+Building"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:0077B5&height=120&section=header&text=Shivanand%20Verma&fontSize=36&fontColor=ffffff&fontAlignY=40&desc=StarkBBK&descAlignY=65&descSize=18&descColor=ffffff"/>
 </p>
 
+<!-- Typing SVG -->
 <p align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmZ5ZXNiY2IwZmNmMXMwamUxZ2lsbWg5c3lrdHg3eGh6bjgwbHdzOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/B9xgQ9lxJ0cP6/giphy.gif" width="500" alt="Animated Avatar"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi+There+%F0%9F%91%8B%2C+I'm+Shivanand+Verma;Full-Stack+Web+%26+Mobile+Developer;React+Native+%7C+React.js+%7C+Node.js;AI%2FML+Enthusiast+%7C+CS+Undergraduate;iOS+Jailbreak+%26+Tweak+Developer;Always+Learning+%26+Always+Building+%F0%9F%9A%80"/>
 </p>
 
+<!-- Profile Views + Followers + Stars -->
 <p align="center">
   <a href="https://github.com/starkbbk">
-    <img src="https://komarev.com/ghpvc/?username=starkbbk&label=Profile%20views&color=00F7FF&style=flat-square" alt="Profile Views"/>
+    <img src="https://komarev.com/ghpvc/?username=starkbbk&label=Profile%20Views&color=00F7FF&style=flat-square"/>
+  </a>
+  <a href="https://github.com/starkbbk?tab=followers">
+    <img src="https://img.shields.io/github/followers/starkbbk?label=Followers&style=flat-square&color=00F7FF"/>
+  </a>
+  <a href="https://github.com/starkbbk?tab=stars">
+    <img src="https://img.shields.io/github/stars/starkbbk?label=Stars&style=flat-square&color=00F7FF"/>
   </a>
 </p>
 
@@ -20,13 +27,23 @@
 
 ```js
 const StarkBBK = {
-  name: "Shivanand Verma",
-  code: ["C++", "Python", "JavaScript", "Swift", "Java", "PHP"],
-  askMeAbout: ["iOS Jailbreak Tweaks", "React", "Node.js"],
-  currentFocus: "Next.js, DevOps, Framer Motion",
-  funFact: "Debugging is twice as hard as writing the code in the first place."
+  name        : "Shivanand Verma",
+  alias       : "starkbbk",
+  location    : "Barabanki, Uttar Pradesh, India",
+  education   : "B.Tech CSE (AI/ML) @ PSIT Kanpur — CGPA: 8.1/10",
+  languages   : ["C++", "Python", "JavaScript", "TypeScript", "Java", "PHP", "Swift"],
+  frameworks  : ["React Native", "React.js", "Next.js", "Node.js", "Express", "Django"],
+  databases   : ["MySQL", "MongoDB", "PostgreSQL"],
+  cloud       : ["AWS", "Docker", "Kubernetes", "Vercel", "Render"],
+  interests   : ["iOS Jailbreak Tweaks", "Full-Stack Dev", "AI/ML", "DevOps", "Open Source"],
+  currentFocus: "Next.js · DevOps · Framer Motion · System Design",
+  achievements: [
+    "🎓 Amazon ML Summer School 2025 — Selected Nationally",
+    "⭐ HackerRank 5-Star Problem Solving & C++",
+    "🔥 600+ LeetCode Problems Solved"
+  ],
+  funFact     : "Debugging is twice as hard as writing the code in the first place 😅"
 };
-```
 
 ---
 
