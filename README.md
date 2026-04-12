@@ -1,5 +1,5 @@
-<!-- 🌌 SPACE GALAXY HEADER -->
-<img width="100%" src="https://raw.githubusercontent.com/starkbbk/starkbbk/main/space_header.svg" />
+<!-- SPACE FOOTER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,25:0a0a2e,50:1a0533,75:0a0a2e,100:000000&height=120&section=footer" width="100%"/>
 
   <!-- Main Text -->
   <text x="500" y="95" text-anchor="middle" font-family="'Segoe UI', Arial, sans-serif" font-size="42" font-weight="bold" fill="#00ffff">
