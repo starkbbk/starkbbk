@@ -36,6 +36,7 @@
   <ellipse cx="200" cy="120" rx="250" ry="120" fill="url(#nebula1)"/>
   <ellipse cx="800" cy="100" rx="200" ry="100" fill="url(#nebula2)"/>
   <ellipse cx="500" cy="200" rx="300" ry="80" fill="url(#nebula1)" opacity="0.5"/>
+  
 
   <!-- ═══════════ ⭐ HYPER SPEED STARS ═══════════ -->
   
