@@ -1,19 +1,4 @@
-<!-- SPACE FOOTER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,25:0a0a2e,50:1a0533,75:0a0a2e,100:000000&height=120&section=footer" width="100%"/>
 
-  <!-- Main Text -->
-  <text x="500" y="95" text-anchor="middle" font-family="'Segoe UI', Arial, sans-serif" font-size="42" font-weight="bold" fill="#00ffff">
-    Hey I'm Shivanand 👋
-  </text>
-  
-  <!-- Subtitle -->
-  <text x="500" y="140" text-anchor="middle" font-family="'Fira Code', monospace" font-size="18" fill="#ff00ff">
-    Full Stack Developer | Backend Engineer | Problem Solver
-  </text>
-
-  <!-- Bottom wave -->
-  <path d="M0,200 Q250,170 500,200 T1000,200 L1000,220 L0,220 Z" fill="#0D1117" opacity="0.8"/>
-</svg>
 <!-- TYPING SVG -->
 <div align="center">
 
