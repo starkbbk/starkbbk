@@ -1,10 +1,10 @@
-<!-- WAVE HEADER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hey%20I'm%20Shivanand%20%F0%9F%91%8B&fontSize=44&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Developer%20|%20Backend%20Engineer%20|%20Problem%20Solver&descSize=18&descAlignY=52&descColor=fff"/>
+<!-- ═══════════════════ NEON SPACE HEADER ═══════════════════ -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=12,2,19,24,3&height=200&section=header&text=Hey%20I'm%20Shivanand%20%F0%9F%91%8B&fontSize=44&fontColor=00FFFF&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Developer%20|%20Backend%20Engineer%20|%20Problem%20Solver&descSize=18&descAlignY=55&descColor=FF00FF"/>
 
 <!-- TYPING SVG -->
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=700&height=60&lines=Full+Stack+Developer+%7C+Backend+Engineer;600%2B+LeetCode+Problems+Solved;Amazon+ML+Summer+School+2025+Selectee;Building+Systems+That+Scale!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=700&height=60&lines=Full+Stack+Developer+%7C+Backend+Engineer;600%2B+LeetCode+Problems+Solved;Amazon+ML+Summer+School+2025+Selectee;Building+Systems+That+Scale!)](https://git.io/typing-svg)
 
 <img src="https://komarev.com/ghpvc/?username=starkbbk&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views"/>
 <a href="https://github.com/starkbbk?tab=followers"><img src="https://img.shields.io/github/followers/starkbbk?label=Followers&style=for-the-badge&color=red&logo=github&logoColor=white" alt="Followers"/></a>
@@ -153,22 +153,16 @@
 
 ## 📊 GitHub Stats
 
-<a href="https://github.com/starkbbk">
-  <img width="49%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=starkbbk&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&count_private=true" />
-</a>
-<a href="https://github.com/starkbbk">
-  <img width="49%" src="https://streak-stats.demolab.com/?user=starkbbk&theme=radical&hide_border=true&background=0D1117&stroke=F85D7F&ring=F85D7F&fire=F8D866&currStreakLabel=F85D7F" />
-</a>
+<p>
+  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=starkbbk&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FFFF&icon_color=FF00FF&ring_color=00FFFF&count_private=true" alt="Stats"/>
+  <img width="49%" src="https://streak-stats.demolab.com/?user=starkbbk&theme=radical&hide_border=true&background=0D1117&stroke=00FFFF&ring=00FFFF&fire=FF00FF&currStreakLabel=00FFFF&sideLabels=00FFFF" alt="Streak"/>
+</p>
 
-<br/>
-
-<a href="https://github.com/starkbbk">
-  <img width="40%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=starkbbk&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F" />
-</a>
+<img width="40%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=starkbbk&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FFFF" alt="Languages"/>
 
 <br/><br/>
 
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=starkbbk&bg_color=0D1117&color=F85D7F&line=F8D866&point=FFFFFF&area_color=F85D7F&area=true&hide_border=true&custom_title=Shivanand's%20Contribution%20Graph"/>
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=starkbbk&bg_color=0D1117&color=00FFFF&line=FF00FF&point=FFFFFF&area_color=00FFFF&area=true&hide_border=true&custom_title=Shivanand's%20Contribution%20Graph" alt="Graph"/>
 
 </div>
 
@@ -214,7 +208,7 @@
 
 ## 🏅 GitHub Trophies
 
-<img src="https://github-profile-trophy.vercel.app/?username=starkbbk&theme=radical&no-frame=true&no-bg=true&margin-w=10&column=7" />
+<img src="https://github-profile-trophy.vercel.app/?username=starkbbk&theme=algolia&no-frame=true&no-bg=true&margin-w=10&column=7" />
 
 </div>
 
@@ -242,7 +236,7 @@
 <a href="https://github.com/starkbbk" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 <a href="https://leetcode.com/u/starkbbk" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
 <a href="https://liqui-folio.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
-<a href="mailto:shivanandbbk06@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="mailto:starkbbk@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
 <br/><br/>
 
@@ -254,5 +248,5 @@
 
 </div>
 
-<!-- FOOTER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
+<!-- NEON SPACE FOOTER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,2,19,24,3&height=120&section=footer" width="100%"/>
