@@ -1,5 +1,11 @@
-<!-- ═══════════════════ NEON SPACE HEADER ═══════════════════ -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,20:1B4332,40:2D6A4F,60:40916C,80:52B788,100:74C69D&height=200&section=header&text=Hey%20I'm%20Shivanand%20%F0%9F%91%8B&fontSize=44&fontColor=FFFFFF&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Developer%20|%20Backend%20Engineer%20|%20Problem%20Solver&descSize=18&descAlignY=55&descColor=95D5B2"/>
+<!-- SPACE GALAXY HEADER -->
+<div align="center">
+  <img width="100%" src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" />
+  
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=40&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=700&height=70&lines=Hey+I'm+Shivanand+%F0%9F%91%8B" alt="Typing" />
+  
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=FF00FF&center=true&vCenter=true&width=700&height=40&lines=Full+Stack+Developer+%7C+Backend+Engineer+%7C+Problem+Solver" alt="Subtitle" />
+</div>
 <!-- TYPING SVG -->
 <div align="center">
 
