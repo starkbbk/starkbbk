@@ -1,11 +1,147 @@
-<!-- SPACE GALAXY HEADER -->
-<div align="center">
-  <img width="100%" src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" />
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="220" viewBox="0 0 1000 220">
+  <defs>
+    <radialGradient id="bg" cx="50%" cy="50%" r="70%">
+      <stop offset="0%" style="stop-color:#0a0a2e"/>
+      <stop offset="50%" style="stop-color:#1a0533"/>
+      <stop offset="100%" style="stop-color:#000000"/>
+    </radialGradient>
+    <radialGradient id="glow1">
+      <stop offset="0%" style="stop-color:#ff00ff;stop-opacity:0.3"/>
+      <stop offset="100%" style="stop-color:#ff00ff;stop-opacity:0"/>
+    </radialGradient>
+    <radialGradient id="glow2">
+      <stop offset="0%" style="stop-color:#00ffff;stop-opacity:0.2"/>
+      <stop offset="100%" style="stop-color:#00ffff;stop-opacity:0"/>
+    </radialGradient>
+  </defs>
+
+  <!-- Background -->
+  <rect width="1000" height="220" fill="url(#bg)"/>
   
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=40&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=700&height=70&lines=Hey+I'm+Shivanand+%F0%9F%91%8B" alt="Typing" />
+  <!-- Nebula Glow -->
+  <ellipse cx="250" cy="110" rx="200" ry="100" fill="url(#glow1)"/>
+  <ellipse cx="750" cy="100" rx="180" ry="90" fill="url(#glow2)"/>
   
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=FF00FF&center=true&vCenter=true&width=700&height=40&lines=Full+Stack+Developer+%7C+Backend+Engineer+%7C+Problem+Solver" alt="Subtitle" />
-</div>
+  <!-- ⭐ Twinkling Stars -->
+  <circle cx="50" cy="30" r="1.5" fill="white">
+    <animate attributeName="opacity" values="0.2;1;0.2" dur="2s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="150" cy="60" r="1" fill="white">
+    <animate attributeName="opacity" values="0.3;1;0.3" dur="1.5s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="250" cy="20" r="2" fill="#00ffff">
+    <animate attributeName="opacity" values="0.1;1;0.1" dur="3s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="350" cy="80" r="1" fill="white">
+    <animate attributeName="opacity" values="0.4;1;0.4" dur="1.8s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="450" cy="15" r="1.5" fill="#ff00ff">
+    <animate attributeName="opacity" values="0.2;1;0.2" dur="2.5s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="550" cy="50" r="1" fill="white">
+    <animate attributeName="opacity" values="0.5;1;0.5" dur="1.2s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="650" cy="25" r="2" fill="#00ffff">
+    <animate attributeName="opacity" values="0.1;1;0.1" dur="2.8s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="750" cy="70" r="1" fill="white">
+    <animate attributeName="opacity" values="0.3;1;0.3" dur="1.6s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="850" cy="35" r="1.5" fill="#ff00ff">
+    <animate attributeName="opacity" values="0.2;1;0.2" dur="2.2s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="950" cy="55" r="1" fill="white">
+    <animate attributeName="opacity" values="0.4;1;0.4" dur="1.4s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="100" cy="150" r="1" fill="white">
+    <animate attributeName="opacity" values="0.3;1;0.3" dur="2.1s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="200" cy="180" r="1.5" fill="#00ffff">
+    <animate attributeName="opacity" values="0.2;1;0.2" dur="1.7s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="300" cy="160" r="1" fill="white">
+    <animate attributeName="opacity" values="0.5;1;0.5" dur="2.3s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="400" cy="190" r="2" fill="#ff00ff">
+    <animate attributeName="opacity" values="0.1;1;0.1" dur="1.9s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="500" cy="170" r="1" fill="white">
+    <animate attributeName="opacity" values="0.4;1;0.4" dur="2.6s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="600" cy="200" r="1.5" fill="white">
+    <animate attributeName="opacity" values="0.2;1;0.2" dur="1.3s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="700" cy="185" r="1" fill="#00ffff">
+    <animate attributeName="opacity" values="0.3;1;0.3" dur="2.4s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="800" cy="165" r="2" fill="white">
+    <animate attributeName="opacity" values="0.1;1;0.1" dur="1.8s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="900" cy="195" r="1" fill="#ff00ff">
+    <animate attributeName="opacity" values="0.5;1;0.5" dur="2.7s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="80" cy="100" r="1.5" fill="white">
+    <animate attributeName="opacity" values="0.2;1;0.2" dur="2s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="920" cy="120" r="1" fill="white">
+    <animate attributeName="opacity" values="0.4;1;0.4" dur="1.5s" repeatCount="indefinite"/>
+  </circle>
+
+  <!-- 🪐 Planet 1 (Small, Purple) -->
+  <circle cx="120" cy="60" r="8" fill="#6a0dad" opacity="0.7">
+    <animate attributeName="cx" values="120;130;120" dur="6s" repeatCount="indefinite"/>
+  </circle>
+  <ellipse cx="120" cy="60" rx="14" ry="3" fill="none" stroke="#9b59b6" stroke-width="1" opacity="0.5">
+    <animate attributeName="cx" values="120;130;120" dur="6s" repeatCount="indefinite"/>
+  </ellipse>
+
+  <!-- 🪐 Planet 2 (Small, Cyan) -->
+  <circle cx="880" cy="50" r="6" fill="#00bcd4" opacity="0.6">
+    <animate attributeName="cy" values="50;60;50" dur="5s" repeatCount="indefinite"/>
+  </circle>
+
+  <!-- 🪐 Planet 3 (Tiny, Pink) -->
+  <circle cx="50" cy="180" r="4" fill="#e91e63" opacity="0.5">
+    <animate attributeName="cx" values="50;60;50" dur="7s" repeatCount="indefinite"/>
+    <animate attributeName="cy" values="180;170;180" dur="7s" repeatCount="indefinite"/>
+  </circle>
+
+  <!-- 🪐 Planet 4 (Right side) -->
+  <circle cx="950" cy="170" r="5" fill="#ff9800" opacity="0.5">
+    <animate attributeName="cy" values="170;160;170" dur="4s" repeatCount="indefinite"/>
+  </circle>
+
+  <!-- ☄️ Shooting Star 1 -->
+  <line x1="0" y1="0" x2="60" y2="30" stroke="white" stroke-width="1" opacity="0">
+    <animate attributeName="opacity" values="0;0;0.8;0" dur="4s" repeatCount="indefinite" begin="0s"/>
+    <animate attributeName="x1" values="200;350" dur="4s" repeatCount="indefinite" begin="0s"/>
+    <animate attributeName="y1" values="10;60" dur="4s" repeatCount="indefinite" begin="0s"/>
+    <animate attributeName="x2" values="230;380" dur="4s" repeatCount="indefinite" begin="0s"/>
+    <animate attributeName="y2" values="20;70" dur="4s" repeatCount="indefinite" begin="0s"/>
+  </line>
+
+  <!-- ☄️ Shooting Star 2 -->
+  <line x1="0" y1="0" x2="50" y2="25" stroke="#00ffff" stroke-width="1" opacity="0">
+    <animate attributeName="opacity" values="0;0;0.9;0" dur="5s" repeatCount="indefinite" begin="2s"/>
+    <animate attributeName="x1" values="600;750" dur="5s" repeatCount="indefinite" begin="2s"/>
+    <animate attributeName="y1" values="20;70" dur="5s" repeatCount="indefinite" begin="2s"/>
+    <animate attributeName="x2" values="630;780" dur="5s" repeatCount="indefinite" begin="2s"/>
+    <animate attributeName="y2" values="30;80" dur="5s" repeatCount="indefinite" begin="2s"/>
+  </line>
+
+  <!-- Main Text -->
+  <text x="500" y="95" text-anchor="middle" font-family="'Segoe UI', Arial, sans-serif" font-size="42" font-weight="bold" fill="#00ffff">
+    Hey I'm Shivanand 👋
+  </text>
+  
+  <!-- Subtitle -->
+  <text x="500" y="140" text-anchor="middle" font-family="'Fira Code', monospace" font-size="18" fill="#ff00ff">
+    Full Stack Developer | Backend Engineer | Problem Solver
+  </text>
+
+  <!-- Bottom wave -->
+  <path d="M0,200 Q250,170 500,200 T1000,200 L1000,220 L0,220 Z" fill="#0D1117" opacity="0.8"/>
+</svg>
 <!-- TYPING SVG -->
 <div align="center">
 
