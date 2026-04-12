@@ -1,5 +1,5 @@
 <!-- ═══════════════════ NEON SPACE HEADER ═══════════════════ -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=12,2,19,24,3&height=200&section=header&text=Hey%20I'm%20Shivanand%20%F0%9F%91%8B&fontSize=44&fontColor=00FFFF&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Developer%20|%20Backend%20Engineer%20|%20Problem%20Solver&descSize=18&descAlignY=55&descColor=FF00FF"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14,1,30,27,5&height=200&section=header&text=Hey%20I'm%20Shivanand%20%F0%9F%91%8B&fontSize=44&fontColor=00FFFF&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Developer%20|%20Backend%20Engineer%20|%20Problem%20Solver&descSize=18&descAlignY=55&descColor=FF00FF"/>
 
 <!-- TYPING SVG -->
 <div align="center">
