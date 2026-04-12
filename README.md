@@ -27,7 +27,7 @@
 - ☁️ **Salesforce** Adventurer & Agentblazer Champion
 - 📜 **Infosys Springboard** — DBMS Certified
 - 🔭 Currently building **workflow automation** & **AI tools**
-- 📫 Reach me at **shivanandbbk06@gmail.com**
+- 📫 Reach me at **starkbbk@gmail.com**
 
 <br clear="both"/>
 
@@ -37,7 +37,7 @@
 
 <div align="center">
 
-## ⚡ Tech Stack — Live & Dancing!
+## ⚡ Tech Stack!
 
 ### 🧠 Languages
 <table><tr><td align="center" width="96"><img src="https://techstack-generator.vercel.app/cpp-icon.svg" width="65" height="65" /><br/>C++</td><td align="center" width="96"><img src="https://techstack-generator.vercel.app/python-icon.svg" width="65" height="65" /><br/>Python</td><td align="center" width="96"><img src="https://techstack-generator.vercel.app/java-icon.svg" width="65" height="65" /><br/>Java</td><td align="center" width="96"><img src="https://techstack-generator.vercel.app/js-icon.svg" width="65" height="65" /><br/>JavaScript</td><td align="center" width="96"><img src="https://techstack-generator.vercel.app/ts-icon.svg" width="65" height="65" /><br/>TypeScript</td><td align="center" width="96"><img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="65" height="65" /><br/>SQL</td></tr></table>
