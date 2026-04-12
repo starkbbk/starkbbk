@@ -1,4 +1,5 @@
-
+<!-- 🌌 SPACE GALAXY HEADER -->
+<img width="100%" src="https://raw.githubusercontent.com/starkbbk/starkbbk/main/space_header.svg" />
 <!-- TYPING SVG -->
 <div align="center">
 
