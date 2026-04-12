@@ -1,15 +1,15 @@
 <!-- WAVE HEADER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hey%20I'm%20Shivanand%20👋&fontSize=44&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Developer%20%7C%20Backend%20Engineer%20%7C%20Problem%20Solver&descSize=18&descAlignY=52&descColor=fff"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hey%20I'm%20Shivanand%20%F0%9F%91%8B&fontSize=44&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Developer%20|%20Backend%20Engineer%20|%20Problem%20Solver&descSize=18&descAlignY=52&descColor=fff"/>
 
-<!-- TYPING -->
+<!-- TYPING SVG -->
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=100&lines=🚀+Full+Stack+Developer+%7C+Backend+Engineer;🏆+International+Rank+1+%7C+AIST+Contest+Winner;💡+600%2B+LeetCode+Problems+Solved;🔥+Code.+Create.+Conquer.+Repeat!" alt="Typing SVG" />
-  </a>
-  <br/>
-  <img src="https://komarev.com/ghpvc/?username=starkbbk&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views"/>
-  <a href="https://github.com/starkbbk?tab=followers"><img src="https://img.shields.io/github/followers/starkbbk?label=Followers&style=for-the-badge&color=red&logo=github&logoColor=white" alt="Followers"/></a>
-  <a href="https://github.com/starkbbk?tab=repositories&sort=stargazers"><img src="https://img.shields.io/github/stars/starkbbk?label=Total%20Stars&style=for-the-badge&color=gold&logo=github" alt="Stars"/></a>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=700&height=60&lines=Full+Stack+Developer+%7C+Backend+Engineer;600%2B+LeetCode+Problems+Solved;Amazon+ML+Summer+School+2025+Selectee;Building+Systems+That+Scale!)](https://git.io/typing-svg)
+
+<img src="https://komarev.com/ghpvc/?username=starkbbk&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views"/>
+<a href="https://github.com/starkbbk?tab=followers"><img src="https://img.shields.io/github/followers/starkbbk?label=Followers&style=for-the-badge&color=red&logo=github&logoColor=white" alt="Followers"/></a>
+<a href="https://github.com/starkbbk?tab=repositories&sort=stargazers"><img src="https://img.shields.io/github/stars/starkbbk?label=Total%20Stars&style=for-the-badge&color=gold&logo=github" alt="Stars"/></a>
+
 </div>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
@@ -21,7 +21,6 @@
 ## 🧑‍💻 About Me
 
 - 🎓 **B.Tech CSE (AI & ML)** — PSIT Kanpur | CGPA: 8.1/10
-- 🏆 **AIST Contest** — International Rank 1 (2x Winner, \$6000)
 - 🧠 **Amazon ML Summer School 2025** — Top Nationwide Selectee
 - 💻 **600+ LeetCode** | **5⭐ HackerRank** (Problem Solving & C++)
 - 🎓 **Stanford ML Certified** (Coursera)
@@ -154,27 +153,38 @@
 
 ## 📊 GitHub Stats
 
-<!-- Stats Card -->
 <a href="https://github.com/starkbbk">
   <img width="49%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=starkbbk&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&count_private=true" />
 </a>
-
-<!-- Streak Stats -->
 <a href="https://github.com/starkbbk">
   <img width="49%" src="https://streak-stats.demolab.com/?user=starkbbk&theme=radical&hide_border=true&background=0D1117&stroke=F85D7F&ring=F85D7F&fire=F8D866&currStreakLabel=F85D7F" />
 </a>
 
 <br/>
 
-<!-- Top Languages -->
 <a href="https://github.com/starkbbk">
   <img width="40%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=starkbbk&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F" />
 </a>
 
 <br/><br/>
 
-<!-- Activity Graph -->
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=starkbbk&bg_color=0D1117&color=F85D7F&line=F8D866&point=FFFFFF&area_color=F85D7F&area=true&hide_border=true&custom_title=📈%20Shivanand's%20Contribution%20Graph"/>
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=starkbbk&bg_color=0D1117&color=F85D7F&line=F8D866&point=FFFFFF&area_color=F85D7F&area=true&hide_border=true&custom_title=Shivanand's%20Contribution%20Graph"/>
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
+
+<!-- ═══════════════════ SNAKE ═══════════════════ -->
+
+<div align="center">
+
+## 🐍 Watch My Contributions Get Eaten!
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/starkbbk/starkbbk/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/starkbbk/starkbbk/output/github-snake.svg" />
+  <img alt="snake" src="https://raw.githubusercontent.com/starkbbk/starkbbk/output/github-snake-dark.svg" />
+</picture>
 
 </div>
 
@@ -188,7 +198,6 @@
 
 | 🏆 Achievement | 📝 Details |
 |:---|:---|
-| 🥇 **AIST Contest** | International Rank 1 — 2x Winner, **\$6,000** total prize money |
 | 🧠 **Amazon ML Summer School 2025** | Selected among top applicants nationwide — ML, NLP, CV, RL |
 | 💻 **Competitive Programming** | **600+** LeetCode problems solved · **5⭐** Problem Solving & C++ on HackerRank |
 | 🎓 **Stanford University (Coursera)** | Unsupervised Learning, Recommenders & Reinforcement Learning |
@@ -205,7 +214,7 @@
 
 ## 🏅 GitHub Trophies
 
-<img src="https://github-profile-trophy.vercel.app/?username=starkbbk&theme=radical&no-frame=true&no-bg=true&margin-w=10&column=7&rank=-C,-B" />
+<img src="https://github-profile-trophy.vercel.app/?username=starkbbk&theme=radical&no-frame=true&no-bg=true&margin-w=10&column=7" />
 
 </div>
 
