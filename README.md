@@ -4,7 +4,7 @@
 <!-- TYPING SVG -->
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=26&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=700&height=60&lines=Full+Stack+Developer+%7C+Backend+Engineer;600%2B+LeetCode+Problems+Solved;Amazon+ML+Summer+School+2025+Selectee;Building+Systems+That+Scale!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=700&height=60&lines=Full+Stack+Developer+%7C+Backend+Engineer;600%2B+LeetCode+Problems+Solved;Amazon+ML+Summer+School+2025+Selectee;Building+Systems+That+Scale!)](https://git.io/typing-svg)
 
 <img src="https://komarev.com/ghpvc/?username=starkbbk&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views"/>
 <a href="https://github.com/starkbbk?tab=followers"><img src="https://img.shields.io/github/followers/starkbbk?label=Followers&style=for-the-badge&color=red&logo=github&logoColor=white" alt="Followers"/></a>
@@ -12,14 +12,13 @@
 
 </div>
 
-<!-- 🌌 SPACE DIVIDER -->
-<img src="https://user-images.githubusercontent.com/74038190/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png" width="100%" />
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
 
 <!-- ═══════════════════ ABOUT ME ═══════════════════ -->
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
 
-## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30" /> About Me
+## 🧑‍💻 About Me
 
 - 🎓 **B.Tech CSE (AI & ML)** — PSIT Kanpur | CGPA: 8.1/10
 - 🧠 **Amazon ML Summer School 2025** — Top Nationwide Selectee
@@ -32,18 +31,13 @@
 
 <br clear="both"/>
 
-<!-- 🌌 SPACE ASTRONAUT DIVIDER -->
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f15b36f63.gif" width="400" />
-</div>
-
-<img src="https://user-images.githubusercontent.com/74038190/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png" width="100%" />
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
 
 <!-- ═══════════════════ TECH STACK ═══════════════════ -->
 
 <div align="center">
 
-## <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="30" /> Tech Stack!
+## ⚡ Tech Stack!
 
 ### 🧠 Languages
 <table><tr><td align="center" width="96"><img src="https://techstack-generator.vercel.app/cpp-icon.svg" width="65" height="65" /><br/>C++</td><td align="center" width="96"><img src="https://techstack-generator.vercel.app/python-icon.svg" width="65" height="65" /><br/>Python</td><td align="center" width="96"><img src="https://techstack-generator.vercel.app/java-icon.svg" width="65" height="65" /><br/>Java</td><td align="center" width="96"><img src="https://techstack-generator.vercel.app/js-icon.svg" width="65" height="65" /><br/>JavaScript</td><td align="center" width="96"><img src="https://techstack-generator.vercel.app/ts-icon.svg" width="65" height="65" /><br/>TypeScript</td><td align="center" width="96"><img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="65" height="65" /><br/>SQL</td></tr></table>
@@ -69,12 +63,7 @@
 
 </div>
 
-<!-- 🌌 SPACE ROCKET DIVIDER -->
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="600" />
-</div>
-
-<img src="https://user-images.githubusercontent.com/74038190/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png" width="100%" />
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
 
 <!-- ═══════════════════ PROJECTS ═══════════════════ -->
 
@@ -156,12 +145,7 @@
   </tr>
 </table>
 
-<!-- 🌌 SPACE PLANET DIVIDER -->
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/216649426-0c2ee152-84d8-4707-85c4-27a378d2f78a.gif" width="400" />
-</div>
-
-<img src="https://user-images.githubusercontent.com/74038190/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png" width="100%" />
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
 
 <!-- ═══════════════════ GITHUB STATS ═══════════════════ -->
 
@@ -182,12 +166,7 @@
 
 </div>
 
-<!-- 🌌 UFO SPACE DIVIDER -->
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/216649417-9acc58df-9186-4571-ad60-a1ed7535d2e8.gif" width="350" />
-</div>
-
-<img src="https://user-images.githubusercontent.com/74038190/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png" width="100%" />
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
 
 <!-- ═══════════════════ SNAKE ═══════════════════ -->
 
@@ -203,7 +182,7 @@
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png" width="100%" />
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
 
 <!-- ═══════════════════ ACHIEVEMENTS ═══════════════════ -->
 
@@ -221,12 +200,7 @@
 
 </div>
 
-<!-- 🌌 SPACE SATELLITE -->
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/216649436-a0869877-1938-4a18-a17b-1dca0c4f4b3d.gif" width="300" />
-</div>
-
-<img src="https://user-images.githubusercontent.com/74038190/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png" width="100%" />
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
 
 <!-- ═══════════════════ TROPHIES ═══════════════════ -->
 
@@ -238,7 +212,7 @@
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png" width="100%" />
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
 
 <!-- ═══════════════════ QUOTE ═══════════════════ -->
 
@@ -250,7 +224,7 @@
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png" width="100%" />
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
 
 <!-- ═══════════════════ CONNECT ═══════════════════ -->
 
@@ -266,15 +240,13 @@
 
 <br/><br/>
 
-<!-- 🌌 SPACE ASTRONAUT FLOATING -->
-<img src="https://user-images.githubusercontent.com/74038190/271839856-3b4607a1-1cc6-41f1-926f-892ae880e7a5.gif" width="500" />
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f15b36f63.gif" width="500" />
 
 <br/>
 
-<!-- PAC MAN -->
 <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400" />
 
 </div>
 
-<!-- 🌌 SPACE FOOTER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,25:0a0a2e,50:1a0533,75:0a0a2e,100:000000&height=120&section=footer" width="100%"/>
+<!-- NEON SPACE FOOTER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,2,19,24,3&height=120&section=footer" width="100%"/>
