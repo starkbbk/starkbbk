@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 100" width="1200" height="100">
+  <defs>
+    <filter id="gl"><feGaussianBlur stdDeviation="3" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+    <filter id="gl2"><feGaussianBlur stdDeviation="6" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+    <linearGradient id="fade" x1="0%" y1="0%" x2="0%" y2="100%"><stop offset="0%" stop-color="transparent"/><stop offset="40%" stop-color="#020010"/><stop offset="100%" stop-color="#020010"/></linearGradient>
+    <radialGradient id="nb1" cx="30%" cy="60%"><stop offset="0%" stop-color="rgba(138,43,226,0.15)"/><stop offset="100%" stop-color="transparent"/></radialGradient>
+    <radialGradient id="nb2" cx="70%" cy="50%"><stop offset="0%" stop-color="rgba(0,150,255,0.1)"/><stop offset="100%" stop-color="transparent"/></radialGradient>
+  </defs>
+  <rect width="1200" height="100" fill="url(#fade)"/>
+  <ellipse cx="300" cy="60" rx="250" ry="80" fill="url(#nb1)" opacity="0.5"/>
+  <ellipse cx="900" cy="50" rx="200" ry="70" fill="url(#nb2)" opacity="0.4"/>
+  <!-- Stars -->
+  <g fill="white">
+    <circle cx="50" cy="30" r="0.5"><animate attributeName="opacity" values="0.7;0.1;0.7" dur="1.5s" repeatCount="indefinite"/></circle>
+    <circle cx="150" cy="60" r="0.6"><animate attributeName="opacity" values="0.8;0.1;0.8" dur="2s" repeatCount="indefinite"/></circle>
+    <circle cx="280" cy="40" r="0.4"><animate attributeName="opacity" values="0.6;0.05;0.6" dur="2.5s" repeatCount="indefinite"/></circle>
+    <circle cx="420" cy="70" r="0.7"><animate attributeName="opacity" values="0.7;0.1;0.7" dur="1.3s" repeatCount="indefinite"/></circle>
+    <circle cx="550" cy="35" r="0.5"><animate attributeName="opacity" values="0.5;0.1;0.5" dur="2.2s" repeatCount="indefinite"/></circle>
+    <circle cx="680" cy="75" r="0.6"><animate attributeName="opacity" values="0.8;0.05;0.8" dur="1.8s" repeatCount="indefinite"/></circle>
+    <circle cx="800" cy="45" r="0.4"><animate attributeName="opacity" values="0.6;0.1;0.6" dur="2.8s" repeatCount="indefinite"/></circle>
+    <circle cx="930" cy="65" r="0.7"><animate attributeName="opacity" values="0.7;0.1;0.7" dur="1.4s" repeatCount="indefinite"/></circle>
+    <circle cx="1060" cy="38" r="0.5"><animate attributeName="opacity" values="0.5;0.05;0.5" dur="2.6s" repeatCount="indefinite"/></circle>
+    <circle cx="1160" cy="55" r="0.6"><animate attributeName="opacity" values="0.8;0.1;0.8" dur="1.6s" repeatCount="indefinite"/></circle>
+  </g>
+  <!-- Flying ships -->
+  <g>
+    <polygon points="0,50 -6,47 -8,50 -6,53" fill="#00FFFF" opacity="0.4">
+      <animateTransform attributeName="transform" type="translate" values="-20,0;1230,0" dur="7s" repeatCount="indefinite"/>
+    </polygon>
+    <ellipse cx="-12" cy="50" rx="5" ry="1" fill="#00FFFF" opacity="0.15">
+      <animateTransform attributeName="transform" type="translate" values="-20,0;1230,0" dur="7s" repeatCount="indefinite"/>
+    </ellipse>
+  </g>
+  <g>
+    <polygon points="1220,65 1226,62 1228,65 1226,68" fill="#FF4444" opacity="0.35">
+      <animateTransform attributeName="transform" type="translate" values="20,0;-1230,0" dur="8s" repeatCount="indefinite"/>
+    </polygon>
+    <ellipse cx="1232" cy="65" rx="5" ry="1" fill="#FF4444" opacity="0.12">
+      <animateTransform attributeName="transform" type="translate" values="20,0;-1230,0" dur="8s" repeatCount="indefinite"/>
+    </ellipse>
+  </g>
+  <!-- Footer text -->
+  <text x="600" y="58" text-anchor="middle" font-family="monospace" font-size="14" font-weight="600" fill="#00FFFF" filter="url(#gl)" letter-spacing="3" opacity="0.7">
+    ⭐ Star my repos if you like them! ⭐
+    <animate attributeName="opacity" values="0.7;0.4;0.7" dur="3s" repeatCount="indefinite"/>
+  </text>
+  <text x="600" y="80" text-anchor="middle" font-family="monospace" font-size="11" fill="#FF00FF" opacity="0.5" letter-spacing="2">Made with 💜 by Shivanand</text>
+</svg>
