@@ -1,28 +1,106 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 80" width="1200" height="80">
   <defs>
     <filter id="gl"><feGaussianBlur stdDeviation="3" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
-    <radialGradient id="nb" cx="50%" cy="50%"><stop offset="0%" stop-color="rgba(0,200,255,0.12)"/><stop offset="100%" stop-color="transparent"/></radialGradient>
+    <filter id="gl2"><feGaussianBlur stdDeviation="6" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+    <radialGradient id="n1" cx="50%" cy="50%"><stop offset="0%" stop-color="rgba(0,200,255,0.15)"/><stop offset="100%" stop-color="transparent"/></radialGradient>
+    <radialGradient id="n2" cx="25%" cy="50%"><stop offset="0%" stop-color="rgba(255,100,0,0.1)"/><stop offset="100%" stop-color="transparent"/></radialGradient>
   </defs>
   <rect width="1200" height="80" fill="#020010"/>
-  <ellipse cx="600" cy="40" rx="450" ry="55" fill="url(#nb)" opacity="0.5"/>
+  <ellipse cx="600" cy="40" rx="450" ry="55" fill="url(#n1)" opacity="0.5"/>
+  <ellipse cx="250" cy="40" rx="220" ry="50" fill="url(#n2)" opacity="0.4"/>
   <g fill="white">
-    <circle cx="40" cy="20" r="0.5"><animate attributeName="opacity" values="0.7;0.1;0.7" dur="1.6s" repeatCount="indefinite"/></circle>
-    <circle cx="190" cy="58" r="0.6"><animate attributeName="opacity" values="0.8;0.1;0.8" dur="2.1s" repeatCount="indefinite"/></circle>
-    <circle cx="340" cy="15" r="0.4"><animate attributeName="opacity" values="0.6;0.05;0.6" dur="1.3s" repeatCount="indefinite"/></circle>
-    <circle cx="490" cy="65" r="0.7"><animate attributeName="opacity" values="0.7;0.1;0.7" dur="2.5s" repeatCount="indefinite"/></circle>
-    <circle cx="640" cy="22" r="0.5"><animate attributeName="opacity" values="0.5;0.1;0.5" dur="1.8s" repeatCount="indefinite"/></circle>
-    <circle cx="790" cy="60" r="0.6"><animate attributeName="opacity" values="0.8;0.05;0.8" dur="2.3s" repeatCount="indefinite"/></circle>
-    <circle cx="940" cy="18" r="0.4"><animate attributeName="opacity" values="0.6;0.1;0.6" dur="1.5s" repeatCount="indefinite"/></circle>
-    <circle cx="1090" cy="55" r="0.7"><animate attributeName="opacity" values="0.7;0.1;0.7" dur="2.7s" repeatCount="indefinite"/></circle>
-    <circle cx="1170" cy="32" r="0.5"><animate attributeName="opacity" values="0.5;0.05;0.5" dur="1.9s" repeatCount="indefinite"/></circle>
+    <circle cx="30" cy="20" r="0.5"><animate attributeName="opacity" values="0.7;0.1;0.7" dur="1.6s" repeatCount="indefinite"/></circle>
+    <circle cx="90" cy="58" r="0.6"><animate attributeName="opacity" values="0.8;0.1;0.8" dur="2.1s" repeatCount="indefinite"/></circle>
+    <circle cx="160" cy="15" r="0.4"><animate attributeName="opacity" values="0.6;0.05;0.6" dur="1.3s" repeatCount="indefinite"/></circle>
+    <circle cx="250" cy="65" r="0.7"><animate attributeName="opacity" values="0.7;0.1;0.7" dur="2.5s" repeatCount="indefinite"/></circle>
+    <circle cx="360" cy="22" r="0.5"><animate attributeName="opacity" values="0.5;0.1;0.5" dur="1.8s" repeatCount="indefinite"/></circle>
+    <circle cx="480" cy="60" r="0.6"><animate attributeName="opacity" values="0.8;0.05;0.8" dur="2.3s" repeatCount="indefinite"/></circle>
+    <circle cx="560" cy="18" r="0.4"><animate attributeName="opacity" values="0.6;0.1;0.6" dur="1.5s" repeatCount="indefinite"/></circle>
+    <circle cx="640" cy="62" r="0.7"><animate attributeName="opacity" values="0.7;0.1;0.7" dur="2.7s" repeatCount="indefinite"/></circle>
+    <circle cx="760" cy="12" r="0.5"><animate attributeName="opacity" values="0.5;0.05;0.5" dur="1.9s" repeatCount="indefinite"/></circle>
+    <circle cx="860" cy="55" r="0.6"><animate attributeName="opacity" values="0.8;0.1;0.8" dur="1.4s" repeatCount="indefinite"/></circle>
+    <circle cx="960" cy="25" r="0.4"><animate attributeName="opacity" values="0.6;0.1;0.6" dur="2.6s" repeatCount="indefinite"/></circle>
+    <circle cx="1070" cy="50" r="0.7"><animate attributeName="opacity" values="0.7;0.05;0.7" dur="1.7s" repeatCount="indefinite"/></circle>
+    <circle cx="1160" cy="30" r="0.5"><animate attributeName="opacity" values="0.5;0.1;0.5" dur="2.2s" repeatCount="indefinite"/></circle>
   </g>
   <circle cx="180" cy="42" r="1.2" fill="#00BFFF" filter="url(#gl)"><animate attributeName="opacity" values="0.9;0.15;0.9" dur="2s" repeatCount="indefinite"/></circle>
   <circle cx="1020" cy="38" r="1.1" fill="#FF00FF" filter="url(#gl)"><animate attributeName="opacity" values="0.8;0.1;0.8" dur="2.4s" repeatCount="indefinite"/></circle>
+  <circle cx="600" cy="68" r="1.3" fill="#FFD700" filter="url(#gl)"><animate attributeName="opacity" values="0.85;0.12;0.85" dur="1.6s" repeatCount="indefinite"/></circle>
+  <line x1="0" y1="0" x2="20" y2="10" stroke="white" stroke-width="0.8" stroke-linecap="round" opacity="0">
+    <animate attributeName="x1" values="900;1200" dur="1.5s" repeatCount="indefinite" begin="2s"/>
+    <animate attributeName="y1" values="10;30" dur="1.5s" repeatCount="indefinite" begin="2s"/>
+    <animate attributeName="x2" values="920;1220" dur="1.5s" repeatCount="indefinite" begin="2s"/>
+    <animate attributeName="y2" values="15;35" dur="1.5s" repeatCount="indefinite" begin="2s"/>
+    <animate attributeName="opacity" values="0;0.6;0" dur="1.5s" repeatCount="indefinite" begin="2s"/>
+  </line>
+  <g><animateTransform attributeName="transform" type="translate" values="-100,0;1300,0" dur="8s" repeatCount="indefinite"/>
+    <ellipse cx="-10" cy="45" rx="12" ry="2.5" fill="#00FFFF" opacity="0.3"><animate attributeName="rx" values="12;18;10;12" dur="0.3s" repeatCount="indefinite"/></ellipse>
+    <polygon points="22,45 5,40 0,43 0,47 5,50" fill="#0a1628" stroke="#00DDFF" stroke-width="0.4"/>
+    <ellipse cx="18" cy="45" rx="3.5" ry="1.8" fill="#001a2e" stroke="#00FFFF" stroke-width="0.5"/>
+    <polygon points="10,41 5,34 14,40" fill="#0a2a50" stroke="#00CCFF" stroke-width="0.3"/>
+    <polygon points="10,49 5,56 14,50" fill="#0a2a50" stroke="#00CCFF" stroke-width="0.3"/>
+    <circle cx="5" cy="34" r="1" fill="#00FFFF" filter="url(#gl)"><animate attributeName="opacity" values="0.7;0.15;0.7" dur="0.5s" repeatCount="indefinite"/></circle>
+    <circle cx="5" cy="56" r="1" fill="#00FFFF" filter="url(#gl)"><animate attributeName="opacity" values="0.7;0.15;0.7" dur="0.5s" repeatCount="indefinite" begin="0.25s"/></circle>
+  </g>
+  <g><animateTransform attributeName="transform" type="translate" values="-80,0;1320,0" dur="10s" repeatCount="indefinite" begin="3s"/>
+    <ellipse cx="-8" cy="15" rx="10" ry="2" fill="#00FFCC" opacity="0.22"><animate attributeName="rx" values="10;14;8;10" dur="0.35s" repeatCount="indefinite"/></ellipse>
+    <polygon points="18,15 4,11 0,13.5 0,16.5 4,19" fill="#0a1628" stroke="#00DDBB" stroke-width="0.35"/>
+    <ellipse cx="15" cy="15" rx="3" ry="1.5" fill="#001a2e" stroke="#00CCAA" stroke-width="0.4"/>
+    <polygon points="8,12 3,7 12,11" fill="#0a2a50"/><polygon points="8,18 3,23 12,19" fill="#0a2a50"/>
+  </g>
+  <g><animateTransform attributeName="transform" type="translate" values="1300,0;-100,0" dur="7.5s" repeatCount="indefinite" begin="1s"/>
+    <ellipse cx="1210" cy="55" rx="10" ry="2" fill="#FF3333" opacity="0.25"><animate attributeName="rx" values="10;15;8;10" dur="0.35s" repeatCount="indefinite"/></ellipse>
+    <polygon points="1180,55 1196,51 1202,53.5 1202,56.5 1196,59" fill="#1a0505" stroke="#FF2244" stroke-width="0.4"/>
+    <ellipse cx="1184" cy="55" rx="3" ry="1.5" fill="#1a0000" stroke="#FF0040" stroke-width="0.4"/>
+    <polygon points="1193,52 1198,47 1190,51" fill="#3a0000"/><polygon points="1193,58 1198,63 1190,59" fill="#3a0000"/>
+    <circle cx="1198" cy="47" r="0.8" fill="#FF0040" filter="url(#gl)"><animate attributeName="opacity" values="0.7;0.1;0.7" dur="0.4s" repeatCount="indefinite"/></circle>
+    <circle cx="1198" cy="63" r="0.8" fill="#FF0040" filter="url(#gl)"><animate attributeName="opacity" values="0.7;0.1;0.7" dur="0.4s" repeatCount="indefinite" begin="0.2s"/></circle>
+  </g>
+  <g><animateTransform attributeName="transform" type="translate" values="1280,0;-120,0" dur="9s" repeatCount="indefinite" begin="4s"/>
+    <ellipse cx="1215" cy="25" rx="8" ry="1.8" fill="#FF6600" opacity="0.2"><animate attributeName="rx" values="8;12;6;8" dur="0.4s" repeatCount="indefinite"/></ellipse>
+    <polygon points="1190,25 1202,22 1208,24 1208,26 1202,28" fill="#1a0a00" stroke="#FF5500" stroke-width="0.3"/>
+    <ellipse cx="1193" cy="25" rx="2.5" ry="1.3" fill="#1a0500" stroke="#FF4400" stroke-width="0.3"/>
+  </g>
+  <line x1="0" y1="44" x2="0" y2="44" stroke="#00FFFF" stroke-width="1.2" stroke-linecap="round" filter="url(#gl)">
+    <animate attributeName="x1" values="-80;500;1300" dur="1.2s" repeatCount="indefinite" begin="0.5s"/>
+    <animate attributeName="y1" values="44;48;55" dur="1.2s" repeatCount="indefinite" begin="0.5s"/>
+    <animate attributeName="x2" values="-50;530;1330" dur="1.2s" repeatCount="indefinite" begin="0.5s"/>
+    <animate attributeName="y2" values="44;48;55" dur="1.2s" repeatCount="indefinite" begin="0.5s"/>
+    <animate attributeName="opacity" values="0;0.8;0" dur="1.2s" repeatCount="indefinite" begin="0.5s"/>
+  </line>
+  <line x1="0" y1="14" x2="0" y2="14" stroke="#00FFCC" stroke-width="0.8" stroke-linecap="round" filter="url(#gl)">
+    <animate attributeName="x1" values="-60;500;1250" dur="1.4s" repeatCount="indefinite" begin="3s"/>
+    <animate attributeName="y1" values="14;18;25" dur="1.4s" repeatCount="indefinite" begin="3s"/>
+    <animate attributeName="x2" values="-30;530;1280" dur="1.4s" repeatCount="indefinite" begin="3s"/>
+    <animate attributeName="y2" values="14;18;25" dur="1.4s" repeatCount="indefinite" begin="3s"/>
+    <animate attributeName="opacity" values="0;0.6;0" dur="1.4s" repeatCount="indefinite" begin="3s"/>
+  </line>
+  <line x1="0" y1="55" x2="0" y2="55" stroke="#FF0040" stroke-width="1" stroke-linecap="round" filter="url(#gl)">
+    <animate attributeName="x1" values="1300;600;-100" dur="1.5s" repeatCount="indefinite" begin="1.5s"/>
+    <animate attributeName="y1" values="55;48;44" dur="1.5s" repeatCount="indefinite" begin="1.5s"/>
+    <animate attributeName="x2" values="1270;570;-130" dur="1.5s" repeatCount="indefinite" begin="1.5s"/>
+    <animate attributeName="y2" values="55;48;44" dur="1.5s" repeatCount="indefinite" begin="1.5s"/>
+    <animate attributeName="opacity" values="0;0.75;0" dur="1.5s" repeatCount="indefinite" begin="1.5s"/>
+  </line>
+  <line x1="0" y1="25" x2="0" y2="25" stroke="#FF6600" stroke-width="0.8" stroke-linecap="round" filter="url(#gl)">
+    <animate attributeName="x1" values="1280;700;-100" dur="1.6s" repeatCount="indefinite" begin="4s"/>
+    <animate attributeName="y1" values="25;30;35" dur="1.6s" repeatCount="indefinite" begin="4s"/>
+    <animate attributeName="x2" values="1250;670;-130" dur="1.6s" repeatCount="indefinite" begin="4s"/>
+    <animate attributeName="y2" values="25;30;35" dur="1.6s" repeatCount="indefinite" begin="4s"/>
+    <animate attributeName="opacity" values="0;0.6;0" dur="1.6s" repeatCount="indefinite" begin="4s"/>
+  </line>
+  <circle cx="700" cy="40" r="0" fill="#00DDFF" filter="url(#gl2)" opacity="0">
+    <animate attributeName="r" values="0;0;0;6;10;0;0;0" dur="4.5s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0;0;0;0.7;0.3;0;0;0" dur="4.5s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="300" cy="50" r="0" fill="#FFAA00" filter="url(#gl2)" opacity="0">
+    <animate attributeName="r" values="0;0;0;0;0;5;8;0;0" dur="6s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0;0;0;0;0;0.6;0.2;0;0" dur="6s" repeatCount="indefinite"/>
+  </circle>
   <line x1="50" y1="40" x2="380" y2="40" stroke="#00BFFF" stroke-width="0.5" opacity="0.2"/>
   <line x1="820" y1="40" x2="1150" y2="40" stroke="#00BFFF" stroke-width="0.5" opacity="0.2"/>
-  <circle cx="0" cy="40" r="3" fill="#00BFFF" filter="url(#gl)" opacity="0">
-    <animate attributeName="cx" values="1210;-10" dur="4s" repeatCount="indefinite"/>
-    <animate attributeName="opacity" values="0;0.5;0.5;0" dur="4s" repeatCount="indefinite"/>
-  </circle>
-  <text x="600" y="48" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="28" font-weight="900" fill="#FFFFFF" filter="url(#gl)" letter-spacing="4">🤝 Let's Connect</text>
+  <circle cx="0" cy="40" r="2.5" fill="#00BFFF" filter="url(#gl)" opacity="0"><animate attributeName="cx" values="1150;820" dur="3s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;0.5;0" dur="3s" repeatCount="indefinite"/></circle>
+  <circle cx="0" cy="40" r="2.5" fill="#00BFFF" filter="url(#gl)" opacity="0"><animate attributeName="cx" values="50;380" dur="3s" repeatCount="indefinite" begin="1.5s"/><animate attributeName="opacity" values="0;0.5;0" dur="3s" repeatCount="indefinite" begin="1.5s"/></circle>
+  <rect x="0" y="0" width="1200" height="0.8" fill="rgba(0,180,255,0.05)"><animate attributeName="y" values="-1;80;-1" dur="5s" repeatCount="indefinite"/></rect>
+  <text x="600" y="48" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="28" font-weight="900" fill="#FFFFFF" filter="url(#gl2)" letter-spacing="4">🤝 Let's Connect</text>
 </svg>
