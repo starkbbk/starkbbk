@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 80" width="1200" height="80">
+  <defs>
+    <filter id="gl"><feGaussianBlur stdDeviation="3" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+    <radialGradient id="nb" cx="50%" cy="50%"><stop offset="0%" stop-color="rgba(0,200,255,0.12)"/><stop offset="100%" stop-color="transparent"/></radialGradient>
+  </defs>
+  <rect width="1200" height="80" fill="#020010"/>
+  <ellipse cx="600" cy="40" rx="450" ry="55" fill="url(#nb)" opacity="0.5"/>
+  <g fill="white">
+    <circle cx="40" cy="20" r="0.5"><animate attributeName="opacity" values="0.7;0.1;0.7" dur="1.6s" repeatCount="indefinite"/></circle>
+    <circle cx="190" cy="58" r="0.6"><animate attributeName="opacity" values="0.8;0.1;0.8" dur="2.1s" repeatCount="indefinite"/></circle>
+    <circle cx="340" cy="15" r="0.4"><animate attributeName="opacity" values="0.6;0.05;0.6" dur="1.3s" repeatCount="indefinite"/></circle>
+    <circle cx="490" cy="65" r="0.7"><animate attributeName="opacity" values="0.7;0.1;0.7" dur="2.5s" repeatCount="indefinite"/></circle>
+    <circle cx="640" cy="22" r="0.5"><animate attributeName="opacity" values="0.5;0.1;0.5" dur="1.8s" repeatCount="indefinite"/></circle>
+    <circle cx="790" cy="60" r="0.6"><animate attributeName="opacity" values="0.8;0.05;0.8" dur="2.3s" repeatCount="indefinite"/></circle>
+    <circle cx="940" cy="18" r="0.4"><animate attributeName="opacity" values="0.6;0.1;0.6" dur="1.5s" repeatCount="indefinite"/></circle>
+    <circle cx="1090" cy="55" r="0.7"><animate attributeName="opacity" values="0.7;0.1;0.7" dur="2.7s" repeatCount="indefinite"/></circle>
+    <circle cx="1170" cy="32" r="0.5"><animate attributeName="opacity" values="0.5;0.05;0.5" dur="1.9s" repeatCount="indefinite"/></circle>
+  </g>
+  <circle cx="180" cy="42" r="1.2" fill="#00BFFF" filter="url(#gl)"><animate attributeName="opacity" values="0.9;0.15;0.9" dur="2s" repeatCount="indefinite"/></circle>
+  <circle cx="1020" cy="38" r="1.1" fill="#FF00FF" filter="url(#gl)"><animate attributeName="opacity" values="0.8;0.1;0.8" dur="2.4s" repeatCount="indefinite"/></circle>
+  <line x1="50" y1="40" x2="380" y2="40" stroke="#00BFFF" stroke-width="0.5" opacity="0.2"/>
+  <line x1="820" y1="40" x2="1150" y2="40" stroke="#00BFFF" stroke-width="0.5" opacity="0.2"/>
+  <circle cx="0" cy="40" r="3" fill="#00BFFF" filter="url(#gl)" opacity="0">
+    <animate attributeName="cx" values="1210;-10" dur="4s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0;0.5;0.5;0" dur="4s" repeatCount="indefinite"/>
+  </circle>
+  <text x="600" y="48" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="28" font-weight="900" fill="#FFFFFF" filter="url(#gl)" letter-spacing="4">🤝 Let's Connect</text>
+</svg>
