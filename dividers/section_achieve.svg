@@ -1,24 +1,210 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 80" width="1200" height="80">
   <defs>
     <filter id="gl"><feGaussianBlur stdDeviation="3" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
-    <radialGradient id="nb" cx="50%" cy="50%"><stop offset="0%" stop-color="rgba(255,200,0,0.12)"/><stop offset="100%" stop-color="transparent"/></radialGradient>
+    <filter id="gl2"><feGaussianBlur stdDeviation="6" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+    <radialGradient id="nb" cx="50%" cy="50%"><stop offset="0%" stop-color="rgba(255,170,0,0.15)"/><stop offset="100%" stop-color="transparent"/></radialGradient>
+    <radialGradient id="nb2" cx="20%" cy="50%"><stop offset="0%" stop-color="rgba(138,43,226,0.1)"/><stop offset="100%" stop-color="transparent"/></radialGradient>
+    <radialGradient id="nb3" cx="80%" cy="50%"><stop offset="0%" stop-color="rgba(0,150,255,0.08)"/><stop offset="100%" stop-color="transparent"/></radialGradient>
   </defs>
+
+  <!-- Background -->
   <rect width="1200" height="80" fill="#020010"/>
-  <ellipse cx="600" cy="40" rx="470" ry="50" fill="url(#nb)" opacity="0.5"/>
+
+  <!-- Nebula clouds -->
+  <ellipse cx="600" cy="40" rx="470" ry="50" fill="url(#nb)" opacity="0.6"/>
+  <ellipse cx="200" cy="40" rx="250" ry="60" fill="url(#nb2)" opacity="0.5"/>
+  <ellipse cx="1000" cy="40" rx="250" ry="60" fill="url(#nb3)" opacity="0.5"/>
+
+  <!-- ★★★ TWINKLING STARS ★★★ -->
   <g fill="white">
-    <circle cx="35" cy="25" r="0.5"><animate attributeName="opacity" values="0.7;0.1;0.7" dur="1.9s" repeatCount="indefinite"/></circle>
-    <circle cx="170" cy="55" r="0.6"><animate attributeName="opacity" values="0.8;0.1;0.8" dur="1.4s" repeatCount="indefinite"/></circle>
-    <circle cx="310" cy="18" r="0.4"><animate attributeName="opacity" values="0.6;0.05;0.6" dur="2.3s" repeatCount="indefinite"/></circle>
-    <circle cx="460" cy="62" r="0.7"><animate attributeName="opacity" values="0.7;0.1;0.7" dur="1.7s" repeatCount="indefinite"/></circle>
-    <circle cx="610" cy="15" r="0.5"><animate attributeName="opacity" values="0.5;0.1;0.5" dur="2.6s" repeatCount="indefinite"/></circle>
-    <circle cx="760" cy="68" r="0.6"><animate attributeName="opacity" values="0.8;0.05;0.8" dur="1.2s" repeatCount="indefinite"/></circle>
-    <circle cx="910" cy="22" r="0.4"><animate attributeName="opacity" values="0.6;0.1;0.6" dur="2.9s" repeatCount="indefinite"/></circle>
-    <circle cx="1060" cy="52" r="0.7"><animate attributeName="opacity" values="0.7;0.1;0.7" dur="1.5s" repeatCount="indefinite"/></circle>
-    <circle cx="1170" cy="38" r="0.5"><animate attributeName="opacity" values="0.5;0.05;0.5" dur="2s" repeatCount="indefinite"/></circle>
+    <circle cx="15" cy="10" r="0.5"><animate attributeName="opacity" values="0.7;0.1;0.7" dur="1.5s" repeatCount="indefinite"/></circle>
+    <circle cx="55" cy="45" r="0.6"><animate attributeName="opacity" values="0.8;0.1;0.8" dur="2.1s" repeatCount="indefinite"/></circle>
+    <circle cx="95" cy="18" r="0.4"><animate attributeName="opacity" values="0.6;0.05;0.6" dur="1.8s" repeatCount="indefinite"/></circle>
+    <circle cx="140" cy="65" r="0.7"><animate attributeName="opacity" values="0.7;0.1;0.7" dur="2.5s" repeatCount="indefinite"/></circle>
+    <circle cx="185" cy="30" r="0.5"><animate attributeName="opacity" values="0.5;0.1;0.5" dur="1.3s" repeatCount="indefinite"/></circle>
+    <circle cx="235" cy="55" r="0.6"><animate attributeName="opacity" values="0.8;0.05;0.8" dur="2.8s" repeatCount="indefinite"/></circle>
+    <circle cx="285" cy="12" r="0.4"><animate attributeName="opacity" values="0.6;0.1;0.6" dur="1.6s" repeatCount="indefinite"/></circle>
+    <circle cx="340" cy="68" r="0.7"><animate attributeName="opacity" values="0.7;0.1;0.7" dur="2.2s" repeatCount="indefinite"/></circle>
+    <circle cx="395" cy="22" r="0.5"><animate attributeName="opacity" values="0.5;0.05;0.5" dur="1.9s" repeatCount="indefinite"/></circle>
+    <circle cx="450" cy="58" r="0.6"><animate attributeName="opacity" values="0.8;0.1;0.8" dur="1.4s" repeatCount="indefinite"/></circle>
+    <circle cx="510" cy="15" r="0.4"><animate attributeName="opacity" values="0.6;0.1;0.6" dur="2.6s" repeatCount="indefinite"/></circle>
+    <circle cx="690" cy="12" r="0.5"><animate attributeName="opacity" values="0.7;0.05;0.7" dur="1.7s" repeatCount="indefinite"/></circle>
+    <circle cx="750" cy="65" r="0.6"><animate attributeName="opacity" values="0.8;0.1;0.8" dur="2.3s" repeatCount="indefinite"/></circle>
+    <circle cx="810" cy="20" r="0.4"><animate attributeName="opacity" values="0.6;0.1;0.6" dur="1.5s" repeatCount="indefinite"/></circle>
+    <circle cx="870" cy="55" r="0.7"><animate attributeName="opacity" values="0.7;0.05;0.7" dur="2.9s" repeatCount="indefinite"/></circle>
+    <circle cx="930" cy="18" r="0.5"><animate attributeName="opacity" values="0.5;0.1;0.5" dur="1.2s" repeatCount="indefinite"/></circle>
+    <circle cx="990" cy="62" r="0.6"><animate attributeName="opacity" values="0.8;0.1;0.8" dur="2.4s" repeatCount="indefinite"/></circle>
+    <circle cx="1050" cy="25" r="0.4"><animate attributeName="opacity" values="0.6;0.05;0.6" dur="1.8s" repeatCount="indefinite"/></circle>
+    <circle cx="1110" cy="50" r="0.7"><animate attributeName="opacity" values="0.7;0.1;0.7" dur="2.1s" repeatCount="indefinite"/></circle>
+    <circle cx="1160" cy="15" r="0.5"><animate attributeName="opacity" values="0.5;0.1;0.5" dur="1.6s" repeatCount="indefinite"/></circle>
+    <circle cx="1190" cy="70" r="0.6"><animate attributeName="opacity" values="0.8;0.05;0.8" dur="2.7s" repeatCount="indefinite"/></circle>
   </g>
-  <circle cx="120" cy="35" r="1.2" fill="#FFD700" filter="url(#gl)"><animate attributeName="opacity" values="0.9;0.2;0.9" dur="1.8s" repeatCount="indefinite"/></circle>
-  <circle cx="1080" cy="45" r="1.3" fill="#FF69B4" filter="url(#gl)"><animate attributeName="opacity" values="0.8;0.1;0.8" dur="2.2s" repeatCount="indefinite"/></circle>
-  <line x1="50" y1="40" x2="340" y2="40" stroke="#FFD700" stroke-width="0.5" opacity="0.2"/>
-  <line x1="860" y1="40" x2="1150" y2="40" stroke="#FFD700" stroke-width="0.5" opacity="0.2"/>
-  <text x="600" y="48" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="28" font-weight="900" fill="#FFFFFF" filter="url(#gl)" letter-spacing="4">🏆 Achievements</text>
+
+  <!-- BRIGHT SPARKLE STARS -->
+  <circle cx="80" cy="35" r="1.2" fill="#FFD700" filter="url(#gl)"><animate attributeName="opacity" values="0.9;0.15;0.9" dur="2s" repeatCount="indefinite"/><animate attributeName="r" values="1.2;1.8;1.2" dur="2s" repeatCount="indefinite"/></circle>
+  <circle cx="1120" cy="42" r="1.3" fill="#FF69B4" filter="url(#gl)"><animate attributeName="opacity" values="0.8;0.1;0.8" dur="2.5s" repeatCount="indefinite"/><animate attributeName="r" values="1.3;1.9;1.3" dur="2.5s" repeatCount="indefinite"/></circle>
+  <circle cx="350" cy="60" r="1" fill="#87CEEB" filter="url(#gl)"><animate attributeName="opacity" values="0.85;0.12;0.85" dur="1.8s" repeatCount="indefinite"/><animate attributeName="r" values="1;1.5;1" dur="1.8s" repeatCount="indefinite"/></circle>
+  <circle cx="850" cy="15" r="1.1" fill="white" filter="url(#gl)"><animate attributeName="opacity" values="0.9;0.2;0.9" dur="2.2s" repeatCount="indefinite"/><animate attributeName="r" values="1.1;1.7;1.1" dur="2.2s" repeatCount="indefinite"/></circle>
+
+  <!-- ★ SHOOTING STAR -->
+  <line x1="0" y1="0" x2="25" y2="12" stroke="white" stroke-width="1" stroke-linecap="round" opacity="0">
+    <animate attributeName="x1" values="-30;600" dur="2s" repeatCount="indefinite"/>
+    <animate attributeName="y1" values="15;40" dur="2s" repeatCount="indefinite"/>
+    <animate attributeName="x2" values="-5;625" dur="2s" repeatCount="indefinite"/>
+    <animate attributeName="y2" values="20;45" dur="2s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0;0.7;0.5;0" dur="2s" repeatCount="indefinite"/>
+  </line>
+
+  <!-- 🚀 HERO SHIP 1 — Flying left to right -->
+  <g>
+    <animateTransform attributeName="transform" type="translate" values="-100,0;1300,0" dur="8s" repeatCount="indefinite"/>
+    <!-- Engine flame -->
+    <ellipse cx="-10" cy="25" rx="12" ry="2.5" fill="#00FFFF" opacity="0.3">
+      <animate attributeName="rx" values="12;18;10;12" dur="0.3s" repeatCount="indefinite"/>
+    </ellipse>
+    <ellipse cx="-6" cy="25" rx="6" ry="1.5" fill="#00FFFF" opacity="0.6">
+      <animate attributeName="rx" values="6;9;5;6" dur="0.25s" repeatCount="indefinite"/>
+    </ellipse>
+    <!-- Body -->
+    <polygon points="22,25 5,20 0,23 0,27 5,30" fill="#0a1628" stroke="#00DDFF" stroke-width="0.4"/>
+    <!-- Cockpit -->
+    <ellipse cx="18" cy="25" rx="3.5" ry="1.8" fill="#001a2e" stroke="#00FFFF" stroke-width="0.5"/>
+    <ellipse cx="19" cy="24.8" rx="1.8" ry="0.9" fill="rgba(0,255,255,0.4)">
+      <animate attributeName="opacity" values="0.4;0.9;0.4" dur="1s" repeatCount="indefinite"/>
+    </ellipse>
+    <!-- Wings -->
+    <polygon points="10,21 5,14 14,20" fill="#0a2a50" stroke="#00CCFF" stroke-width="0.3"/>
+    <polygon points="10,29 5,36 14,30" fill="#0a2a50" stroke="#00CCFF" stroke-width="0.3"/>
+    <!-- Wing tips -->
+    <circle cx="5" cy="14" r="1" fill="#00FFFF" filter="url(#gl)" opacity="0.7">
+      <animate attributeName="opacity" values="0.7;0.15;0.7" dur="0.5s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="5" cy="36" r="1" fill="#00FFFF" filter="url(#gl)" opacity="0.7">
+      <animate attributeName="opacity" values="0.7;0.15;0.7" dur="0.5s" repeatCount="indefinite" begin="0.25s"/>
+    </circle>
+  </g>
+
+  <!-- 🚀 HERO SHIP 2 — Flying left to right (lower, delayed) -->
+  <g>
+    <animateTransform attributeName="transform" type="translate" values="-80,0;1320,0" dur="9s" repeatCount="indefinite" begin="2s"/>
+    <ellipse cx="-8" cy="55" rx="10" ry="2" fill="#00FFFF" opacity="0.25">
+      <animate attributeName="rx" values="10;15;8;10" dur="0.35s" repeatCount="indefinite"/>
+    </ellipse>
+    <ellipse cx="-5" cy="55" rx="5" ry="1.2" fill="#00FFFF" opacity="0.5">
+      <animate attributeName="rx" values="5;8;4;5" dur="0.28s" repeatCount="indefinite"/>
+    </ellipse>
+    <polygon points="18,55 4,51 0,53.5 0,56.5 4,59" fill="#0a1628" stroke="#00CCEE" stroke-width="0.35"/>
+    <ellipse cx="15" cy="55" rx="3" ry="1.5" fill="#001a2e" stroke="#00DDFF" stroke-width="0.4"/>
+    <polygon points="8,52 3,46 12,51" fill="#0a2a50" stroke="#00BBDD" stroke-width="0.2"/>
+    <polygon points="8,58 3,64 12,59" fill="#0a2a50" stroke="#00BBDD" stroke-width="0.2"/>
+    <circle cx="3" cy="46" r="0.8" fill="#00DDFF" filter="url(#gl)" opacity="0.6">
+      <animate attributeName="opacity" values="0.6;0.1;0.6" dur="0.6s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="3" cy="64" r="0.8" fill="#00DDFF" filter="url(#gl)" opacity="0.6">
+      <animate attributeName="opacity" values="0.6;0.1;0.6" dur="0.6s" repeatCount="indefinite" begin="0.3s"/>
+    </circle>
+  </g>
+
+  <!-- 👾 ENEMY SHIP 1 — Flying right to left -->
+  <g>
+    <animateTransform attributeName="transform" type="translate" values="1300,0;-100,0" dur="7s" repeatCount="indefinite" begin="1s"/>
+    <ellipse cx="1210" cy="18" rx="10" ry="2" fill="#FF3333" opacity="0.25">
+      <animate attributeName="rx" values="10;15;8;10" dur="0.35s" repeatCount="indefinite"/>
+    </ellipse>
+    <ellipse cx="1207" cy="18" rx="5" ry="1.2" fill="#FF3333" opacity="0.5">
+      <animate attributeName="rx" values="5;8;4;5" dur="0.3s" repeatCount="indefinite"/>
+    </ellipse>
+    <polygon points="1180,18 1196,14 1202,16.5 1202,19.5 1196,22" fill="#1a0505" stroke="#FF2244" stroke-width="0.4"/>
+    <ellipse cx="1184" cy="18" rx="3" ry="1.5" fill="#1a0000" stroke="#FF0040" stroke-width="0.4"/>
+    <ellipse cx="1183" cy="17.8" rx="1.5" ry="0.8" fill="rgba(255,0,64,0.4)">
+      <animate attributeName="opacity" values="0.4;0.9;0.4" dur="1s" repeatCount="indefinite"/>
+    </ellipse>
+    <polygon points="1193,15 1198,10 1190,14" fill="#3a0000" stroke="#FF2244" stroke-width="0.2"/>
+    <polygon points="1193,21 1198,26 1190,22" fill="#3a0000" stroke="#FF2244" stroke-width="0.2"/>
+    <circle cx="1198" cy="10" r="0.8" fill="#FF0040" filter="url(#gl)" opacity="0.7">
+      <animate attributeName="opacity" values="0.7;0.1;0.7" dur="0.4s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="1198" cy="26" r="0.8" fill="#FF0040" filter="url(#gl)" opacity="0.7">
+      <animate attributeName="opacity" values="0.7;0.1;0.7" dur="0.4s" repeatCount="indefinite" begin="0.2s"/>
+    </circle>
+  </g>
+
+  <!-- 👾 ENEMY SHIP 2 — Flying right to left (lower) -->
+  <g>
+    <animateTransform attributeName="transform" type="translate" values="1280,0;-120,0" dur="10s" repeatCount="indefinite" begin="3.5s"/>
+    <ellipse cx="1215" cy="62" rx="8" ry="1.8" fill="#FF3333" opacity="0.2">
+      <animate attributeName="rx" values="8;12;6;8" dur="0.4s" repeatCount="indefinite"/>
+    </ellipse>
+    <polygon points="1188,62 1200,59 1206,61 1206,63 1200,65" fill="#1a0505" stroke="#FF5533" stroke-width="0.3"/>
+    <ellipse cx="1191" cy="62" rx="2.5" ry="1.3" fill="#1a0000" stroke="#FF4400" stroke-width="0.3"/>
+    <polygon points="1198,60 1203,56 1196,59" fill="#3a0000"/>
+    <polygon points="1198,64 1203,68 1196,65" fill="#3a0000"/>
+  </g>
+
+  <!-- ⚡ LASER — Hero 1 shooting -->
+  <line x1="0" y1="24" x2="0" y2="24" stroke="#00FFFF" stroke-width="1.2" stroke-linecap="round" filter="url(#gl)">
+    <animate attributeName="x1" values="-80;500;1100;1300" dur="1.2s" repeatCount="indefinite" begin="0.5s"/>
+    <animate attributeName="y1" values="24;22;19;18" dur="1.2s" repeatCount="indefinite" begin="0.5s"/>
+    <animate attributeName="x2" values="-50;530;1130;1330" dur="1.2s" repeatCount="indefinite" begin="0.5s"/>
+    <animate attributeName="y2" values="24;22;19;18" dur="1.2s" repeatCount="indefinite" begin="0.5s"/>
+    <animate attributeName="opacity" values="0;0.8;0.8;0" dur="1.2s" repeatCount="indefinite" begin="0.5s"/>
+  </line>
+
+  <!-- ⚡ LASER — Enemy 1 shooting back -->
+  <line x1="0" y1="18" x2="0" y2="18" stroke="#FF0040" stroke-width="1" stroke-linecap="round" filter="url(#gl)">
+    <animate attributeName="x1" values="1300;800;300;-100" dur="1.5s" repeatCount="indefinite" begin="2s"/>
+    <animate attributeName="y1" values="18;20;23;25" dur="1.5s" repeatCount="indefinite" begin="2s"/>
+    <animate attributeName="x2" values="1270;770;270;-130" dur="1.5s" repeatCount="indefinite" begin="2s"/>
+    <animate attributeName="y2" values="18;20;23;25" dur="1.5s" repeatCount="indefinite" begin="2s"/>
+    <animate attributeName="opacity" values="0;0.75;0.75;0" dur="1.5s" repeatCount="indefinite" begin="2s"/>
+  </line>
+
+  <!-- ⚡ LASER — Hero 2 shooting -->
+  <line x1="0" y1="54" x2="0" y2="54" stroke="#00FF88" stroke-width="1" stroke-linecap="round" filter="url(#gl)">
+    <animate attributeName="x1" values="-60;450;950;1250" dur="1.3s" repeatCount="indefinite" begin="3s"/>
+    <animate attributeName="y1" values="54;56;60;62" dur="1.3s" repeatCount="indefinite" begin="3s"/>
+    <animate attributeName="x2" values="-30;480;980;1280" dur="1.3s" repeatCount="indefinite" begin="3s"/>
+    <animate attributeName="y2" values="54;56;60;62" dur="1.3s" repeatCount="indefinite" begin="3s"/>
+    <animate attributeName="opacity" values="0;0.7;0.7;0" dur="1.3s" repeatCount="indefinite" begin="3s"/>
+  </line>
+
+  <!-- 💥 SMALL EXPLOSION -->
+  <circle cx="600" cy="20" r="0" fill="#FFAA00" filter="url(#gl2)" opacity="0">
+    <animate attributeName="r" values="0;0;0;0;6;10;5;0;0;0" dur="5s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0;0;0;0;0.8;0.4;0.1;0;0;0" dur="5s" repeatCount="indefinite"/>
+  </circle>
+
+  <!-- Decorative glowing lines -->
+  <line x1="50" y1="40" x2="340" y2="40" stroke="#FFD700" stroke-width="0.5" opacity="0.25"/>
+  <line x1="860" y1="40" x2="1150" y2="40" stroke="#FFD700" stroke-width="0.5" opacity="0.25"/>
+
+  <!-- Energy pulse on lines -->
+  <circle cx="0" cy="40" r="2.5" fill="#FFD700" filter="url(#gl)" opacity="0">
+    <animate attributeName="cx" values="50;340" dur="3s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0;0.6;0.6;0" dur="3s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="0" cy="40" r="2.5" fill="#FFD700" filter="url(#gl)" opacity="0">
+    <animate attributeName="cx" values="1150;860" dur="3s" repeatCount="indefinite" begin="1.5s"/>
+    <animate attributeName="opacity" values="0;0.6;0.6;0" dur="3s" repeatCount="indefinite" begin="1.5s"/>
+  </circle>
+
+  <!-- 🏆 TITLE TEXT -->
+  <text x="600" y="48" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="28" font-weight="900" fill="#FFFFFF" filter="url(#gl2)" letter-spacing="4">🏆 Achievements</text>
+
+  <!-- Scan line -->
+  <rect x="0" y="0" width="1200" height="0.8" fill="rgba(255,170,0,0.06)">
+    <animate attributeName="y" values="-1;80;-1" dur="4s" repeatCount="indefinite"/>
+  </rect>
+
+  <!-- Speed lines -->
+  <g opacity="0.08">
+    <line x1="-50" y1="30" x2="-10" y2="30" stroke="white" stroke-width="0.3">
+      <animate attributeName="x1" values="-50;1250" dur="1s" repeatCount="indefinite"/>
+      <animate attributeName="x2" values="-10;1290" dur="1s" repeatCount="indefinite"/>
+    </line>
+    <line x1="-50" y1="55" x2="-15" y2="55" stroke="white" stroke-width="0.25">
+      <animate attributeName="x1" values="-50;1250" dur="1.3s" repeatCount="indefinite" begin="0.4s"/>
+      <animate attributeName="x2" values="-15;1285" dur="1.3s" repeatCount="indefinite" begin="0.4s"/>
+    </line>
+  </g>
 </svg>
