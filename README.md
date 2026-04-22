@@ -1,5 +1,5 @@
-<!-- 🌌 SPACE BATTLE HEADER -->
-<img width="100%" src="https://raw.githubusercontent.com/starkbbk/starkbbk/main/space_header.svg" />
+<!-- 🌌 EPIC SPACE BATTLE HEADER -->
+<img width="100%" src="./space_header.svg" />
 
 <!-- TYPING SVG -->
 <div align="center">
@@ -16,9 +16,11 @@
 
 <!-- ═══════════════════ ABOUT ME ═══════════════════ -->
 
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
+<div align="center">
+<img width="100%" src="./dividers/section_about.svg" />
+</div>
 
-## 🧑‍💻 About Me
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
 
 - 🎓 **B.Tech CSE (AI & ML)** — PSIT Kanpur | CGPA: 8.1/10
 - 🧠 **Amazon ML Summer School 2025** — Top Nationwide Selectee
@@ -36,8 +38,7 @@
 <!-- ═══════════════════ TECH STACK ═══════════════════ -->
 
 <div align="center">
-
-## ⚡ Tech Stack!
+<img width="100%" src="./dividers/section_tech.svg" />
 
 ### 🧠 Languages
 <table><tr><td align="center" width="96"><img src="https://techstack-generator.vercel.app/cpp-icon.svg" width="65" height="65" /><br/>C++</td><td align="center" width="96"><img src="https://techstack-generator.vercel.app/python-icon.svg" width="65" height="65" /><br/>Python</td><td align="center" width="96"><img src="https://techstack-generator.vercel.app/java-icon.svg" width="65" height="65" /><br/>Java</td><td align="center" width="96"><img src="https://techstack-generator.vercel.app/js-icon.svg" width="65" height="65" /><br/>JavaScript</td><td align="center" width="96"><img src="https://techstack-generator.vercel.app/ts-icon.svg" width="65" height="65" /><br/>TypeScript</td><td align="center" width="96"><img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="65" height="65" /><br/>SQL</td></tr></table>
@@ -54,7 +55,6 @@
 <br/>
 
 ### 🧰 Complete Toolkit
-
 <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=cpp,python,java,js,ts,react,nextjs,tailwind,html,css,vite,redux&perline=12&theme=dark" /></a>
 <br/>
 <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=fastapi,nodejs,express,redis,postgres,mysql,mongodb,firebase,graphql,docker,kubernetes,aws&perline=12&theme=dark" /></a>
@@ -68,9 +68,7 @@
 <!-- ═══════════════════ PROJECTS ═══════════════════ -->
 
 <div align="center">
-
-## 🚀 Featured Projects
-
+<img width="100%" src="./dividers/section_projects.svg" />
 </div>
 
 <table align="center">
@@ -147,6 +145,7 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
 
+
 <!-- ═══════════════════ GITHUB STATS ═══════════════════ -->
 
 <div align="center">
@@ -187,8 +186,7 @@
 <!-- ═══════════════════ ACHIEVEMENTS ═══════════════════ -->
 
 <div align="center">
-
-## 🏆 Achievements & Certifications
+<img width="100%" src="./dividers/section_achieve.svg" />
 
 | 🏆 Achievement | 📝 Details |
 |:---|:---|
@@ -208,7 +206,7 @@
 
 ## 🏅 GitHub Trophies
 
-<img src="https://github-profile-trophy.vercel.app/?username=starkbbk&theme=algolia&no-frame=true&no-bg=true&margin-w=10&column=7" />
+<img src="https://github-profile-trophy.vercel.app/?username=starkbbk&theme=darkhub&no-frame=true&no-bg=true&margin-w=10&column=7&rank=-?" alt="Trophies"/>
 
 </div>
 
@@ -220,7 +218,7 @@
 
 ## 💭 Random Dev Quote
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quote"/>
 
 </div>
 
@@ -229,8 +227,9 @@
 <!-- ═══════════════════ CONNECT ═══════════════════ -->
 
 <div align="center">
+<img width="100%" src="./dividers/section_connect.svg" />
 
-## 🤝 Let's Connect!
+<br/>
 
 <a href="https://www.linkedin.com/in/starkbbk" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://github.com/starkbbk" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
