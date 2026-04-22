@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 30" width="1200" height="30">
+  <defs>
+    <linearGradient id="lg" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00FFFF">
+        <animate attributeName="stop-color" values="#00FFFF;#FF00FF;#FFD700;#00FF88;#00FFFF" dur="4s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="25%" stop-color="#FF00FF">
+        <animate attributeName="stop-color" values="#FF00FF;#FFD700;#00FF88;#00FFFF;#FF00FF" dur="4s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="50%" stop-color="#FFD700">
+        <animate attributeName="stop-color" values="#FFD700;#00FF88;#00FFFF;#FF00FF;#FFD700" dur="4s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="75%" stop-color="#00FF88">
+        <animate attributeName="stop-color" values="#00FF88;#00FFFF;#FF00FF;#FFD700;#00FF88" dur="4s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="100%" stop-color="#00FFFF">
+        <animate attributeName="stop-color" values="#00FFFF;#FF00FF;#FFD700;#00FF88;#00FFFF" dur="4s" repeatCount="indefinite"/>
+      </stop>
+    </linearGradient>
+    <filter id="gl"><feGaussianBlur stdDeviation="2" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  </defs>
+  <rect width="1200" height="30" fill="#020010"/>
+  <!-- Stars in divider -->
+  <g fill="white">
+    <circle cx="50" cy="8" r="0.5"><animate attributeName="opacity" values="0.7;0.1;0.7" dur="1.5s" repeatCount="indefinite"/></circle>
+    <circle cx="150" cy="22" r="0.4"><animate attributeName="opacity" values="0.6;0.1;0.6" dur="2s" repeatCount="indefinite"/></circle>
+    <circle cx="280" cy="12" r="0.6"><animate attributeName="opacity" values="0.8;0.1;0.8" dur="1.8s" repeatCount="indefinite"/></circle>
+    <circle cx="400" cy="5" r="0.5"><animate attributeName="opacity" values="0.5;0.1;0.5" dur="2.2s" repeatCount="indefinite"/></circle>
+    <circle cx="520" cy="25" r="0.4"><animate attributeName="opacity" values="0.7;0.1;0.7" dur="1.3s" repeatCount="indefinite"/></circle>
+    <circle cx="650" cy="10" r="0.6"><animate attributeName="opacity" values="0.6;0.1;0.6" dur="2.5s" repeatCount="indefinite"/></circle>
+    <circle cx="780" cy="20" r="0.5"><animate attributeName="opacity" values="0.8;0.1;0.8" dur="1.6s" repeatCount="indefinite"/></circle>
+    <circle cx="900" cy="7" r="0.4"><animate attributeName="opacity" values="0.5;0.1;0.5" dur="2.1s" repeatCount="indefinite"/></circle>
+    <circle cx="1020" cy="18" r="0.6"><animate attributeName="opacity" values="0.7;0.1;0.7" dur="1.9s" repeatCount="indefinite"/></circle>
+    <circle cx="1150" cy="12" r="0.5"><animate attributeName="opacity" values="0.6;0.1;0.6" dur="2.3s" repeatCount="indefinite"/></circle>
+  </g>
+  <!-- Glowing center line -->
+  <line x1="0" y1="15" x2="1200" y2="15" stroke="url(#lg)" stroke-width="2" filter="url(#gl)" opacity="0.9"/>
+  <line x1="0" y1="15" x2="1200" y2="15" stroke="url(#lg)" stroke-width="0.5" opacity="0.6"/>
+  <!-- Moving energy pulse -->
+  <circle cx="0" cy="15" r="4" fill="#00FFFF" filter="url(#gl)" opacity="0.6">
+    <animate attributeName="cx" values="-10;1210" dur="3s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0;0.8;0.8;0" dur="3s" repeatCount="indefinite"/>
+    <animate attributeName="fill" values="#00FFFF;#FF00FF;#FFD700;#00FFFF" dur="3s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="0" cy="15" r="3" fill="#FF00FF" filter="url(#gl)" opacity="0.5">
+    <animate attributeName="cx" values="1210;-10" dur="3.5s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0;0.7;0.7;0" dur="3.5s" repeatCount="indefinite"/>
+  </circle>
+  <!-- Tiny spaceship flying across -->
+  <g>
+    <animate attributeName="opacity" values="0.6;0.8;0.6" dur="2s" repeatCount="indefinite"/>
+    <polygon points="0,15 -8,12 -10,15 -8,18" fill="#00FFFF" opacity="0.5">
+      <animateTransform attributeName="transform" type="translate" values="-20,0;1230,0" dur="5s" repeatCount="indefinite"/>
+    </polygon>
+  </g>
+</svg>
