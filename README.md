@@ -76,7 +76,7 @@
     <td width="50%">
       <h3 align="center">⚡ FlowCron</h3>
       <p align="center">
-        <a href="[https://flowcron.vercel.app/](https://flow-cron.vercel.app/)" target="_blank"><img src="https://img.shields.io/badge/LIVE%20DEMO-🟢-brightgreen?style=for-the-badge" /></a>
+        <a href="https://flow-cron.vercel.app" target="_blank"><img src="https://img.shields.io/badge/LIVE%20DEMO-🟢-brightgreen?style=for-the-badge" /></a>
         <a href="https://github.com/starkbbk/FlowCron" target="_blank"><img src="https://img.shields.io/badge/CODE-🔗-blue?style=for-the-badge&logo=github" /></a>
       </p>
       <p align="center"><strong>Visual Workflow Automation Platform</strong></p>
@@ -101,7 +101,7 @@
     <td width="50%">
       <h3 align="center">🧰 ToolboxHub</h3>
       <p align="center">
-        <a href="[http://lost-and-found-0lwo.onrender.com/](https://tool-box-hub-pi.vercel.app/)" target="_blank"><img src="https://img.shields.io/badge/LIVE%20DEMO-🟢-brightgreen?style=for-the-badge" /></a>
+        <a href="https://tool-box-hub-pi.vercel.app" target="_blank"><img src="https://img.shields.io/badge/LIVE%20DEMO-🟢-brightgreen?style=for-the-badge" /></a>
         <a href="https://github.com/starkbbk/ToolBoxHub" target="_blank"><img src="https://img.shields.io/badge/CODE-🔗-blue?style=for-the-badge&logo=github" /></a>
       </p>
       <p align="center"><strong>AI Productivity Suite</strong></p>
